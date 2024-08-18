@@ -83,13 +83,65 @@ This project incorporates a blink detection system that is sensitive to facial o
 ### Overall Accuracy by Condition
 ![Average Blink Count for Each Digital Count](images/Average%20Blink%20Count%20for%20Each%20Digital%20Count.png)
 
+### Total Average Accuracy
+![Total Average Accuracy with Standard Deviation](images/Total%20Average%20Accuracy%20with%20Standard%20Deviation.png)
+
+## 🎣 Assessing Cognitive Load - Data Processing Notebook
+
+### Overview
+
+This notebook is designed to assist in the assessment of cognitive load through the processing of CSV data files. It provides two primary functionalities:
+
+1. **Calculation of Median Absolute Deviation (MAD) for CSV Files:** The notebook can process multiple CSV files within a directory, calculating the MAD for each numeric column in the files. This is particularly useful for analyzing the variability of data, which can be an indicator of cognitive load.
+2. **Data Cleaning for Specific CSV Files:** The notebook includes a section for cleaning a specific CSV file by selecting relevant columns and saving the cleaned data for further analysis.
+
+## 🧩 Features
+
+### MAD Calculation:
+- Processes all CSV files in a specified directory.
+- Calculates the MAD for each numeric column.
+- Saves the results in a `mad_results.csv` file.
+
+### Data Cleaning:
+- Loads a specified CSV file.
+- Retains only important columns related to cognitive load assessment.
+- Saves the cleaned data into a new CSV file.
+
 These visualizations highlight the relationship between task difficulty, cognitive load, and participant performance. The increase in blink rates from easy to medium tasks suggests greater cognitive effort, while the drop in accuracy with increasing task difficulty is consistent with existing cognitive load theories.
+
+## 📚 Instructions
+
+### MAD Calculation:
+1. Place your CSV files in the specified directory (default: `"/content/Untitled Folder"`).
+2. Run the notebook cells to calculate the MAD for each numeric column in the CSV files.
+3. The results will be saved to `mad_results.csv` in the working directory.
+
+### Data Cleaning:
+1. Specify the file path to your CSV file in the `file_path` variable.
+2. Run the notebook cells to clean the data by retaining only the important columns.
+3. The cleaned data will be saved to a new CSV file (`P5.csv` by default).
+
+### Example to process all CSV files in a directory
+
+```sh
+directory = "/path/to/your/csv/files"
+mad_results = process_all_files(directory)
+
+# Example to clean a specific CSV file
+file_path = "/path/to/your/csv/file.csv"
+df_cleaned = clean_csv_file(file_path)
+```
+
+### Output
+
+- mad_results.csv: Contains the MAD values for numeric columns in the processed CSV files.
+- P5.csv: The cleaned CSV file with selected columns relevant to cognitive load assessment.
 
 ## 🚀 Usage
 
 ### 🔧 Prerequisites
 - Python 3.9 or later
-- Required libraries: `opencv-python`, `mediapipe`, `numpy`, `math`, `csv`, `time`, `datetime`, `sys`
+- Required libraries: `opencv-python`, `mediapipe`, `numpy`, `math`, `csv`, `time`, `datetime`, `sys`, `os`
 - A functional webcam for real-time blink detection
 
 ### Running the Code
@@ -108,3 +160,8 @@ These visualizations highlight the relationship between task difficulty, cogniti
 -  Mathôt, S., et al. (2023). Methods in Cognitive Pupillometry.
 -  Gagl, B., et al. (2011). Systematic Influence of Gaze Position on Pupil Size Measurement.
 -  Culemann, W., et al. (2023). Pupil vs. Eyelid: Evaluating the Accuracy of Blink Detection.
+
+
+
+
+
