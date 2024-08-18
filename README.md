@@ -15,6 +15,10 @@ This repository contains the code, data, and results associated with the researc
 
 In this study, we aimed to assess the cognitive load of users in a controlled environment using the webcam of their personal device. We evaluated the relationship between cognitive load and performance metrics during digital span tasks, where participants were asked to memorize and recall sequences of digits. Blink rates were monitored as a non-invasive indicator of cognitive load.
 
+## 🛠 Blink Detection Sensitivity
+
+This project incorporates a blink detection system that is sensitive to facial orientation. The system uses a webcam to monitor blinks and takes into account the orientation of the participant's face to ensure accurate detection. This feature is particularly useful in ensuring reliable data collection even when the participant's facial orientation varies slightly during the task.
+
 ## 🛠 Methods
 
 ### 🔧 Experimental Setup
@@ -25,6 +29,31 @@ In this study, we aimed to assess the cognitive load of users in a controlled en
   1. **Baseline**: Resting state to establish a baseline blink rate.
   2. **Task**: Performing the digital span test.
   3. **Recovery**: Resting state post-task to observe recovery patterns.
+
+## 🧪 Experiment Procedure
+
+### How the Digit Span Task Works
+
+1. **Presentation**: The user is presented with a fixation cross followed by a random sequence of numbers displayed one by one.
+2. **Display Duration**: Each number appears for 1 second, followed by a 0.1-second blank screen to distinguish between numbers.
+3. **Input**: After the sequence, the user is asked to type the list into an input space and confirm the entry by pressing the spacebar.
+4. **Trial**: Each sequence presentation and subsequent input is considered a single trial.
+5. **Conditions**: The experiment includes three conditions based on the length of the number sequence:
+   - Easy (3 digits)
+   - Medium (5 digits)
+   - Hard (8 digits)
+6. **Repetition**: The entire process is repeated across multiple trials to ensure data reliability.
+
+### Blink Detection Procedure
+
+- The blink detection software operates concurrently with the digit span task.
+- The system monitors the participant's blinks during each condition, recording blink frequency and correlating it with task difficulty.
+- The software can be executed via the terminal or shell using the following command:
+  ```bash
+  python .\blink_detector_face_orientation_datetime.py <participant_id>
+  ```
+  Replace `<participant_id>` with the participant's identifier. If none is provided, it defaults to "test."  
+
 
 ### 📊 Data Processing
 
@@ -58,9 +87,10 @@ These visualizations highlight the relationship between task difficulty, cogniti
 
 ## 🚀 Usage
 
-### Prerequisites
-- Python 3.x
-- Required libraries: `pandas`, `numpy`, `matplotlib`
+### 🔧 Prerequisites
+- Python 3.9 or later
+- Required libraries: `opencv-python`, `mediapipe`, `numpy`, `math`, `csv`, `time`, `datetime`, `sys`
+- A functional webcam for real-time blink detection
 
 ### Running the Code
 
