@@ -1,0 +1,3006 @@
+8.3517 	WARNING 	User requested fullscreen with size [1707 1067], but screen is actually [1920, 1080]. Using actual size
+8.8655 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D96EBE2F70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D96EBE2F10>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D96EBE2D30>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D96EF9AFD0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.8656 	EXP 	window1: mouseVisible = True
+8.8656 	EXP 	window1: backgroundImage = ''
+8.8656 	EXP 	window1: backgroundFit = 'none'
+8.8681 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.8682 	EXP 	window1: recordFrameIntervals = False
+8.9343 	EXP 	window1: recordFrameIntervals = True
+9.0123 	EXP 	Screen (0) actual frame rate measured at 142.58Hz
+9.0123 	EXP 	window1: recordFrameIntervals = False
+9.0125 	EXP 	window1: mouseVisible = False
+10.2871 	EXP 	digit_span: status = STARTED
+10.2875 	EXP 	window1: mouseVisible = True
+10.3320 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.3321 	EXP 	window1: mouseVisible = True
+10.3346 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+10.3347 	EXP 	window1: mouseVisible = True
+10.3357 	EXP 	Created digit = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='digit', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.3359 	EXP 	window1: mouseVisible = True
+10.3367 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.3368 	EXP 	window1: mouseVisible = True
+10.3398 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='Please enter the digits you remeber:', units='height', win=Window(...), wrapWidth=1)
+10.3399 	EXP 	window1: mouseVisible = True
+10.3400 	EXP 	window1: mouseVisible = True
+10.3403 	EXP 	window1: mouseVisible = True
+10.3405 	EXP 	window1: mouseVisible = True
+10.3454 	EXP 	window1: mouseVisible = True
+10.3455 	EXP 	window1: mouseVisible = True
+10.3457 	EXP 	window1: mouseVisible = True
+10.3460 	EXP 	window1: mouseVisible = True
+10.3698 	EXP 	window1: mouseVisible = True
+10.3724 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text="press 'space' to confirm input", units='height', win=Window(...), wrapWidth=1)
+10.3725 	EXP 	window1: mouseVisible = True
+10.3764 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.3765 	EXP 	window1: mouseVisible = True
+10.3786 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='The End', units='height', win=Window(...), wrapWidth=1)
+0.0014 	EXP 	result_box: autoLog = True
+0.0038 	EXP 	text: autoDraw = True
+2.3847 	DATA 	Mouse: Left button down, pos=(826,687)
+2.5379 	DATA 	Mouse:  Left button up, pos=(826,687)
+2.8028 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+2.8031 	EXP 	New trial (rep=0, index=0): None
+2.8034 	EXP 	Created sequence: sequential, trialTypes=1, nReps=15, seed=None
+2.8036 	EXP 	New trial (rep=0, index=0): None
+2.8055 	DATA 	Keypress: space
+2.8075 	EXP 	text: autoDraw = False
+2.8075 	EXP 	text_2: autoDraw = True
+3.8068 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+3.8071 	EXP 	New trial (rep=0, index=0): None
+3.9120 	EXP 	text_2: autoDraw = False
+3.9120 	EXP 	digit: height = 0.5
+3.9120 	EXP 	digit: height = 0.5
+3.9120 	EXP 	digit: height = 0.5
+3.9120 	EXP 	digit: text = '2'
+3.9120 	EXP 	digit: autoDraw = True
+4.8131 	EXP 	digit: autoDraw = False
+4.8131 	EXP 	text_3: autoDraw = True
+4.9035 	EXP 	New trial (rep=1, index=0): None
+4.9145 	EXP 	text_3: autoDraw = False
+4.9145 	EXP 	digit: height = 0.5
+4.9145 	EXP 	digit: height = 0.5
+4.9145 	EXP 	digit: height = 0.5
+4.9145 	EXP 	digit: text = '4'
+4.9145 	EXP 	digit: autoDraw = True
+5.9104 	EXP 	digit: autoDraw = False
+5.9104 	EXP 	text_3: autoDraw = True
+6.0082 	EXP 	New trial (rep=2, index=0): None
+6.0236 	EXP 	text_3: autoDraw = False
+6.0236 	EXP 	digit: height = 0.5
+6.0236 	EXP 	digit: height = 0.5
+6.0236 	EXP 	digit: height = 0.5
+6.0236 	EXP 	digit: text = '1'
+6.0236 	EXP 	digit: autoDraw = True
+7.0140 	EXP 	digit: autoDraw = False
+7.0140 	EXP 	text_3: autoDraw = True
+7.1049 	EXP 	New trial (rep=3, index=0): None
+7.1192 	EXP 	text_3: autoDraw = False
+7.1192 	EXP 	digit: height = 0.5
+7.1192 	EXP 	digit: height = 0.5
+7.1192 	EXP 	digit: height = 0.5
+7.1192 	EXP 	digit: text = '7'
+7.1192 	EXP 	digit: autoDraw = True
+8.1113 	EXP 	digit: autoDraw = False
+8.1113 	EXP 	text_3: autoDraw = True
+8.2090 	EXP 	New trial (rep=4, index=0): None
+8.2244 	EXP 	text_3: autoDraw = False
+8.2244 	EXP 	digit: height = 0.5
+8.2244 	EXP 	digit: height = 0.5
+8.2244 	EXP 	digit: height = 0.5
+8.2244 	EXP 	digit: text = '5'
+8.2244 	EXP 	digit: autoDraw = True
+9.2089 	EXP 	digit: autoDraw = False
+9.2089 	EXP 	text_3: autoDraw = True
+9.3146 	EXP 	text_3: autoDraw = False
+9.3146 	EXP 	text_4: autoDraw = True
+9.3146 	EXP 	result_box: autoDraw = True
+9.3146 	EXP 	text_5: autoDraw = True
+10.5311 	DATA 	Keypress: 2
+10.6284 	DATA 	Keypress: 4
+10.8081 	DATA 	Keypress: 1
+11.4256 	DATA 	Keypress: 5
+11.8700 	EXP 	New trial (rep=1, index=0): None
+11.8713 	DATA 	Keypress: space
+11.8755 	EXP 	text_4: autoDraw = False
+11.8755 	EXP 	result_box: autoDraw = False
+11.8755 	EXP 	text_5: autoDraw = False
+11.8755 	EXP 	text_2: autoDraw = True
+12.8693 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+12.8696 	EXP 	New trial (rep=0, index=0): None
+12.8762 	EXP 	text_2: autoDraw = False
+12.8762 	EXP 	text_2: autoDraw = False
+12.8762 	EXP 	digit: height = 0.5
+12.8762 	EXP 	digit: height = 0.5
+12.8762 	EXP 	digit: height = 0.5
+12.8762 	EXP 	digit: text = '4'
+12.8762 	EXP 	digit: autoDraw = True
+13.8754 	EXP 	digit: autoDraw = False
+13.8754 	EXP 	digit: autoDraw = False
+13.8754 	EXP 	text_3: autoDraw = True
+13.9730 	EXP 	New trial (rep=1, index=0): None
+13.9796 	EXP 	text_3: autoDraw = False
+13.9796 	EXP 	digit: height = 0.5
+13.9796 	EXP 	digit: height = 0.5
+13.9796 	EXP 	digit: height = 0.5
+13.9796 	EXP 	digit: text = '5'
+13.9796 	EXP 	digit: autoDraw = True
+14.9793 	EXP 	digit: autoDraw = False
+14.9793 	EXP 	text_3: autoDraw = True
+15.0772 	EXP 	New trial (rep=2, index=0): None
+15.0838 	EXP 	text_3: autoDraw = False
+15.0838 	EXP 	digit: height = 0.5
+15.0838 	EXP 	digit: height = 0.5
+15.0838 	EXP 	digit: height = 0.5
+15.0838 	EXP 	digit: text = '7'
+15.0838 	EXP 	digit: autoDraw = True
+16.0837 	EXP 	digit: autoDraw = False
+16.0837 	EXP 	text_3: autoDraw = True
+16.1740 	EXP 	New trial (rep=3, index=0): None
+16.1803 	EXP 	text_3: autoDraw = False
+16.1803 	EXP 	digit: height = 0.5
+16.1803 	EXP 	digit: height = 0.5
+16.1803 	EXP 	digit: height = 0.5
+16.1803 	EXP 	digit: text = '1'
+16.1803 	EXP 	digit: autoDraw = True
+17.1807 	EXP 	digit: autoDraw = False
+17.1807 	EXP 	text_3: autoDraw = True
+17.2719 	EXP 	New trial (rep=4, index=0): None
+17.2901 	EXP 	text_3: autoDraw = False
+17.2901 	EXP 	digit: height = 0.5
+17.2901 	EXP 	digit: height = 0.5
+17.2901 	EXP 	digit: height = 0.5
+17.2901 	EXP 	digit: text = '8'
+17.2901 	EXP 	digit: autoDraw = True
+18.2778 	EXP 	digit: autoDraw = False
+18.2778 	EXP 	text_3: autoDraw = True
+18.3818 	EXP 	text_3: autoDraw = False
+18.3818 	EXP 	text_4: autoDraw = True
+18.3818 	EXP 	result_box: autoDraw = True
+18.3818 	EXP 	text_5: autoDraw = True
+19.2262 	DATA 	Keypress: 4
+19.5249 	DATA 	Keypress: 5
+19.7408 	DATA 	Keypress: 7
+19.9414 	DATA 	Keypress: 1
+20.2826 	DATA 	Keypress: 8
+20.6196 	EXP 	New trial (rep=2, index=0): None
+20.6207 	DATA 	Keypress: space
+20.6251 	EXP 	text_4: autoDraw = False
+20.6251 	EXP 	result_box: autoDraw = False
+20.6251 	EXP 	text_5: autoDraw = False
+20.6251 	EXP 	text_2: autoDraw = True
+21.6189 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+21.6191 	EXP 	New trial (rep=0, index=0): None
+21.6327 	EXP 	text_2: autoDraw = False
+21.6327 	EXP 	text_2: autoDraw = False
+21.6327 	EXP 	digit: height = 0.5
+21.6327 	EXP 	digit: height = 0.5
+21.6327 	EXP 	digit: height = 0.5
+21.6327 	EXP 	digit: text = '6'
+21.6327 	EXP 	digit: autoDraw = True
+22.6316 	EXP 	digit: autoDraw = False
+22.6316 	EXP 	text_3: autoDraw = True
+22.7220 	EXP 	New trial (rep=1, index=0): None
+22.7288 	EXP 	text_3: autoDraw = False
+22.7288 	EXP 	digit: height = 0.5
+22.7288 	EXP 	digit: height = 0.5
+22.7288 	EXP 	digit: height = 0.5
+22.7288 	EXP 	digit: text = '1'
+22.7288 	EXP 	digit: autoDraw = True
+23.7293 	EXP 	digit: autoDraw = False
+23.7293 	EXP 	text_3: autoDraw = True
+23.8202 	EXP 	New trial (rep=2, index=0): None
+23.8266 	EXP 	text_3: autoDraw = False
+23.8266 	EXP 	digit: height = 0.5
+23.8266 	EXP 	digit: height = 0.5
+23.8266 	EXP 	digit: height = 0.5
+23.8266 	EXP 	digit: text = '8'
+23.8266 	EXP 	digit: autoDraw = True
+24.8261 	EXP 	digit: autoDraw = False
+24.8261 	EXP 	digit: autoDraw = False
+24.8261 	EXP 	text_3: autoDraw = True
+24.9233 	EXP 	New trial (rep=3, index=0): None
+24.9353 	EXP 	text_3: autoDraw = False
+24.9353 	EXP 	digit: height = 0.5
+24.9353 	EXP 	digit: height = 0.5
+24.9353 	EXP 	digit: height = 0.5
+24.9353 	EXP 	digit: text = '3'
+24.9353 	EXP 	digit: autoDraw = True
+25.9302 	EXP 	digit: autoDraw = False
+25.9302 	EXP 	text_3: autoDraw = True
+26.0212 	EXP 	New trial (rep=4, index=0): None
+26.0389 	EXP 	text_3: autoDraw = False
+26.0389 	EXP 	digit: height = 0.5
+26.0389 	EXP 	digit: height = 0.5
+26.0389 	EXP 	digit: height = 0.5
+26.0389 	EXP 	digit: text = '0'
+26.0389 	EXP 	digit: autoDraw = True
+27.0277 	EXP 	digit: autoDraw = False
+27.0277 	EXP 	text_3: autoDraw = True
+27.1315 	EXP 	text_3: autoDraw = False
+27.1315 	EXP 	text_4: autoDraw = True
+27.1315 	EXP 	result_box: autoDraw = True
+27.1315 	EXP 	text_5: autoDraw = True
+27.6068 	DATA 	Keypress: 6
+27.7936 	DATA 	Keypress: 1
+28.1828 	DATA 	Keypress: 8
+28.4755 	DATA 	Keypress: 3
+28.8784 	DATA 	Keypress: 0
+29.1747 	EXP 	New trial (rep=3, index=0): None
+29.1756 	DATA 	Keypress: space
+29.1799 	EXP 	text_4: autoDraw = False
+29.1799 	EXP 	result_box: autoDraw = False
+29.1799 	EXP 	text_5: autoDraw = False
+29.1799 	EXP 	text_2: autoDraw = True
+30.1740 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+30.1741 	EXP 	New trial (rep=0, index=0): None
+30.1806 	EXP 	text_2: autoDraw = False
+30.1806 	EXP 	text_2: autoDraw = False
+30.1806 	EXP 	digit: height = 0.5
+30.1806 	EXP 	digit: height = 0.5
+30.1806 	EXP 	digit: height = 0.5
+30.1806 	EXP 	digit: text = '4'
+30.1806 	EXP 	digit: autoDraw = True
+31.1798 	EXP 	digit: autoDraw = False
+31.1798 	EXP 	digit: autoDraw = False
+31.1798 	EXP 	text_3: autoDraw = True
+31.2783 	EXP 	New trial (rep=1, index=0): None
+31.2848 	EXP 	text_3: autoDraw = False
+31.2848 	EXP 	digit: height = 0.5
+31.2848 	EXP 	digit: height = 0.5
+31.2848 	EXP 	digit: height = 0.5
+31.2848 	EXP 	digit: text = '8'
+31.2848 	EXP 	digit: autoDraw = True
+32.2845 	EXP 	digit: autoDraw = False
+32.2845 	EXP 	text_3: autoDraw = True
+32.3756 	EXP 	New trial (rep=2, index=0): None
+32.3834 	EXP 	text_3: autoDraw = False
+32.3834 	EXP 	digit: height = 0.5
+32.3834 	EXP 	digit: height = 0.5
+32.3834 	EXP 	digit: height = 0.5
+32.3834 	EXP 	digit: text = '5'
+32.3834 	EXP 	digit: autoDraw = True
+33.3822 	EXP 	digit: autoDraw = False
+33.3822 	EXP 	text_3: autoDraw = True
+33.4795 	EXP 	New trial (rep=3, index=0): None
+33.4861 	EXP 	text_3: autoDraw = False
+33.4861 	EXP 	digit: height = 0.5
+33.4861 	EXP 	digit: height = 0.5
+33.4861 	EXP 	digit: height = 0.5
+33.4861 	EXP 	digit: text = '3'
+33.4861 	EXP 	digit: autoDraw = True
+34.4860 	EXP 	digit: autoDraw = False
+34.4860 	EXP 	text_3: autoDraw = True
+34.5764 	EXP 	New trial (rep=4, index=0): None
+34.5831 	EXP 	text_3: autoDraw = False
+34.5831 	EXP 	digit: height = 0.5
+34.5831 	EXP 	digit: height = 0.5
+34.5831 	EXP 	digit: height = 0.5
+34.5831 	EXP 	digit: text = '7'
+34.5831 	EXP 	digit: autoDraw = True
+35.5833 	EXP 	digit: autoDraw = False
+35.5833 	EXP 	text_3: autoDraw = True
+35.6904 	EXP 	text_3: autoDraw = False
+35.6904 	EXP 	text_4: autoDraw = True
+35.6904 	EXP 	result_box: autoDraw = True
+35.6904 	EXP 	text_5: autoDraw = True
+36.0935 	DATA 	Keypress: 4
+36.3004 	DATA 	Keypress: 8
+36.4668 	DATA 	Keypress: 5
+36.9962 	DATA 	Keypress: 7
+37.3696 	EXP 	New trial (rep=4, index=0): None
+37.3710 	DATA 	Keypress: space
+37.3748 	EXP 	text_4: autoDraw = False
+37.3748 	EXP 	result_box: autoDraw = False
+37.3748 	EXP 	text_5: autoDraw = False
+37.3748 	EXP 	text_2: autoDraw = True
+38.3680 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+38.3682 	EXP 	New trial (rep=0, index=0): None
+38.3826 	EXP 	text_2: autoDraw = False
+38.3826 	EXP 	text_2: autoDraw = False
+38.3826 	EXP 	digit: height = 0.5
+38.3826 	EXP 	digit: height = 0.5
+38.3826 	EXP 	digit: height = 0.5
+38.3826 	EXP 	digit: text = '9'
+38.3826 	EXP 	digit: autoDraw = True
+39.3817 	EXP 	digit: autoDraw = False
+39.3817 	EXP 	text_3: autoDraw = True
+39.4733 	EXP 	New trial (rep=1, index=0): None
+39.4813 	EXP 	text_3: autoDraw = False
+39.4813 	EXP 	digit: height = 0.5
+39.4813 	EXP 	digit: height = 0.5
+39.4813 	EXP 	digit: height = 0.5
+39.4813 	EXP 	digit: text = '3'
+39.4813 	EXP 	digit: autoDraw = True
+40.4786 	EXP 	digit: autoDraw = False
+40.4786 	EXP 	text_3: autoDraw = True
+40.5765 	EXP 	New trial (rep=2, index=0): None
+40.5834 	EXP 	text_3: autoDraw = False
+40.5834 	EXP 	digit: height = 0.5
+40.5834 	EXP 	digit: height = 0.5
+40.5834 	EXP 	digit: height = 0.5
+40.5834 	EXP 	digit: text = '5'
+40.5834 	EXP 	digit: autoDraw = True
+41.5762 	EXP 	digit: autoDraw = False
+41.5762 	EXP 	text_3: autoDraw = True
+41.6740 	EXP 	New trial (rep=3, index=0): None
+41.6813 	EXP 	text_3: autoDraw = False
+41.6813 	EXP 	digit: height = 0.5
+41.6813 	EXP 	digit: height = 0.5
+41.6813 	EXP 	digit: height = 0.5
+41.6813 	EXP 	digit: text = '0'
+41.6813 	EXP 	digit: autoDraw = True
+42.6802 	EXP 	digit: autoDraw = False
+42.6802 	EXP 	text_3: autoDraw = True
+42.7710 	EXP 	New trial (rep=4, index=0): None
+42.7786 	EXP 	text_3: autoDraw = False
+42.7786 	EXP 	digit: height = 0.5
+42.7786 	EXP 	digit: height = 0.5
+42.7786 	EXP 	digit: height = 0.5
+42.7786 	EXP 	digit: text = '6'
+42.7786 	EXP 	digit: autoDraw = True
+43.7777 	EXP 	digit: autoDraw = False
+43.7777 	EXP 	text_3: autoDraw = True
+43.8837 	EXP 	text_3: autoDraw = False
+43.8837 	EXP 	text_4: autoDraw = True
+43.8837 	EXP 	result_box: autoDraw = True
+43.8837 	EXP 	text_5: autoDraw = True
+47.7381 	DATA 	Keypress: 9
+48.5085 	DATA 	Keypress: 8
+49.0578 	DATA 	Keypress: 6
+49.3285 	DATA 	Keypress: 4
+49.4867 	EXP 	New trial (rep=5, index=0): None
+49.4878 	DATA 	Keypress: space
+49.4924 	EXP 	text_4: autoDraw = False
+49.4924 	EXP 	result_box: autoDraw = False
+49.4924 	EXP 	text_5: autoDraw = False
+49.4924 	EXP 	text_2: autoDraw = True
+50.4862 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+50.4865 	EXP 	New trial (rep=0, index=0): None
+50.4926 	EXP 	text_2: autoDraw = False
+50.4926 	EXP 	text_2: autoDraw = False
+50.4926 	EXP 	digit: height = 0.5
+50.4926 	EXP 	digit: height = 0.5
+50.4926 	EXP 	digit: height = 0.5
+50.4926 	EXP 	digit: text = '8'
+50.4926 	EXP 	digit: autoDraw = True
+51.4926 	EXP 	digit: autoDraw = False
+51.4926 	EXP 	digit: autoDraw = False
+51.4926 	EXP 	text_3: autoDraw = True
+51.5907 	EXP 	New trial (rep=1, index=0): None
+51.5973 	EXP 	text_3: autoDraw = False
+51.5973 	EXP 	digit: height = 0.5
+51.5973 	EXP 	digit: height = 0.5
+51.5973 	EXP 	digit: height = 0.5
+51.5973 	EXP 	digit: text = '4'
+51.5973 	EXP 	digit: autoDraw = True
+52.5963 	EXP 	digit: autoDraw = False
+52.5963 	EXP 	text_3: autoDraw = True
+52.6875 	EXP 	New trial (rep=2, index=0): None
+52.6941 	EXP 	text_3: autoDraw = False
+52.6941 	EXP 	digit: height = 0.5
+52.6941 	EXP 	digit: height = 0.5
+52.6941 	EXP 	digit: height = 0.5
+52.6941 	EXP 	digit: text = '0'
+52.6941 	EXP 	digit: autoDraw = True
+53.6937 	EXP 	digit: autoDraw = False
+53.6937 	EXP 	text_3: autoDraw = True
+53.7916 	EXP 	New trial (rep=3, index=0): None
+53.7981 	EXP 	text_3: autoDraw = False
+53.7981 	EXP 	digit: height = 0.5
+53.7981 	EXP 	digit: height = 0.5
+53.7981 	EXP 	digit: height = 0.5
+53.7981 	EXP 	digit: text = '3'
+53.7981 	EXP 	digit: autoDraw = True
+54.7979 	EXP 	digit: autoDraw = False
+54.7979 	EXP 	text_3: autoDraw = True
+54.8877 	EXP 	New trial (rep=4, index=0): None
+54.8945 	EXP 	text_3: autoDraw = False
+54.8945 	EXP 	digit: height = 0.5
+54.8945 	EXP 	digit: height = 0.5
+54.8945 	EXP 	digit: height = 0.5
+54.8945 	EXP 	digit: text = '2'
+54.8945 	EXP 	digit: autoDraw = True
+55.8951 	EXP 	digit: autoDraw = False
+55.8951 	EXP 	text_3: autoDraw = True
+56.0004 	EXP 	text_3: autoDraw = False
+56.0004 	EXP 	text_4: autoDraw = True
+56.0004 	EXP 	result_box: autoDraw = True
+56.0004 	EXP 	text_5: autoDraw = True
+56.3497 	DATA 	Keypress: 8
+56.5297 	DATA 	Keypress: 4
+56.7451 	DATA 	Keypress: 2
+57.0914 	DATA 	Keypress: 0
+57.3473 	EXP 	New trial (rep=6, index=0): None
+57.3483 	DATA 	Keypress: space
+57.3532 	EXP 	text_4: autoDraw = False
+57.3532 	EXP 	result_box: autoDraw = False
+57.3532 	EXP 	text_5: autoDraw = False
+57.3532 	EXP 	text_2: autoDraw = True
+58.3475 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+58.3478 	EXP 	New trial (rep=0, index=0): None
+58.3535 	EXP 	text_2: autoDraw = False
+58.3535 	EXP 	text_2: autoDraw = False
+58.3535 	EXP 	digit: text = '2'
+58.3535 	EXP 	digit: autoDraw = True
+59.3532 	EXP 	digit: autoDraw = False
+59.3532 	EXP 	digit: autoDraw = False
+59.3532 	EXP 	text_3: autoDraw = True
+59.4512 	EXP 	New trial (rep=1, index=0): None
+59.4576 	EXP 	text_3: autoDraw = False
+59.4576 	EXP 	digit: height = 0.5
+59.4576 	EXP 	digit: height = 0.5
+59.4576 	EXP 	digit: height = 0.5
+59.4576 	EXP 	digit: text = '9'
+59.4576 	EXP 	digit: autoDraw = True
+60.4574 	EXP 	digit: autoDraw = False
+60.4574 	EXP 	text_3: autoDraw = True
+60.5482 	EXP 	New trial (rep=2, index=0): None
+60.5543 	EXP 	text_3: autoDraw = False
+60.5543 	EXP 	digit: height = 0.5
+60.5543 	EXP 	digit: height = 0.5
+60.5543 	EXP 	digit: height = 0.5
+60.5543 	EXP 	digit: text = '1'
+60.5543 	EXP 	digit: autoDraw = True
+61.5542 	EXP 	digit: autoDraw = False
+61.5542 	EXP 	text_3: autoDraw = True
+61.6522 	EXP 	New trial (rep=3, index=0): None
+61.6590 	EXP 	text_3: autoDraw = False
+61.6590 	EXP 	digit: height = 0.5
+61.6590 	EXP 	digit: height = 0.5
+61.6590 	EXP 	digit: height = 0.5
+61.6590 	EXP 	digit: text = '0'
+61.6590 	EXP 	digit: autoDraw = True
+62.6589 	EXP 	digit: autoDraw = False
+62.6589 	EXP 	text_3: autoDraw = True
+62.7497 	EXP 	New trial (rep=4, index=0): None
+62.7579 	EXP 	text_3: autoDraw = False
+62.7579 	EXP 	digit: height = 0.5
+62.7579 	EXP 	digit: height = 0.5
+62.7579 	EXP 	digit: height = 0.5
+62.7579 	EXP 	digit: text = '4'
+62.7579 	EXP 	digit: autoDraw = True
+63.7562 	EXP 	digit: autoDraw = False
+63.7562 	EXP 	text_3: autoDraw = True
+63.8617 	EXP 	text_3: autoDraw = False
+63.8617 	EXP 	text_4: autoDraw = True
+63.8617 	EXP 	result_box: autoDraw = True
+63.8617 	EXP 	text_5: autoDraw = True
+64.2032 	DATA 	Keypress: 2
+64.3345 	DATA 	Keypress: 9
+64.6128 	DATA 	Keypress: 8
+65.1193 	DATA 	Keypress: 0
+65.5225 	DATA 	Keypress: 4
+65.8418 	DATA 	Keypress: 1
+66.1062 	DATA 	Keypress: 2
+66.4373 	EXP 	New trial (rep=7, index=0): None
+66.4383 	DATA 	Keypress: space
+66.4432 	EXP 	text_4: autoDraw = False
+66.4432 	EXP 	result_box: autoDraw = False
+66.4432 	EXP 	text_5: autoDraw = False
+66.4432 	EXP 	text_2: autoDraw = True
+67.4373 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+67.4376 	EXP 	New trial (rep=0, index=0): None
+67.4435 	EXP 	text_2: autoDraw = False
+67.4435 	EXP 	text_2: autoDraw = False
+67.4435 	EXP 	digit: height = 0.5
+67.4435 	EXP 	digit: height = 0.5
+67.4435 	EXP 	digit: height = 0.5
+67.4435 	EXP 	digit: text = '2'
+67.4435 	EXP 	digit: autoDraw = True
+68.4435 	EXP 	digit: autoDraw = False
+68.4435 	EXP 	digit: autoDraw = False
+68.4435 	EXP 	text_3: autoDraw = True
+68.5405 	EXP 	New trial (rep=1, index=0): None
+68.5474 	EXP 	text_3: autoDraw = False
+68.5474 	EXP 	digit: height = 0.5
+68.5474 	EXP 	digit: height = 0.5
+68.5474 	EXP 	digit: height = 0.5
+68.5474 	EXP 	digit: text = '5'
+68.5474 	EXP 	digit: autoDraw = True
+69.5473 	EXP 	digit: autoDraw = False
+69.5473 	EXP 	text_3: autoDraw = True
+69.6382 	EXP 	New trial (rep=2, index=0): None
+69.6448 	EXP 	text_3: autoDraw = False
+69.6448 	EXP 	digit: height = 0.5
+69.6448 	EXP 	digit: height = 0.5
+69.6448 	EXP 	digit: height = 0.5
+69.6448 	EXP 	digit: text = '8'
+69.6448 	EXP 	digit: autoDraw = True
+70.6446 	EXP 	digit: autoDraw = False
+70.6446 	EXP 	text_3: autoDraw = True
+70.7421 	EXP 	New trial (rep=3, index=0): None
+70.7489 	EXP 	text_3: autoDraw = False
+70.7489 	EXP 	digit: height = 0.5
+70.7489 	EXP 	digit: height = 0.5
+70.7489 	EXP 	digit: height = 0.5
+70.7489 	EXP 	digit: text = '6'
+70.7489 	EXP 	digit: autoDraw = True
+71.7486 	EXP 	digit: autoDraw = False
+71.7486 	EXP 	text_3: autoDraw = True
+71.8391 	EXP 	New trial (rep=4, index=0): None
+71.8459 	EXP 	text_3: autoDraw = False
+71.8459 	EXP 	digit: height = 0.5
+71.8459 	EXP 	digit: height = 0.5
+71.8459 	EXP 	digit: height = 0.5
+71.8459 	EXP 	digit: text = '4'
+71.8459 	EXP 	digit: autoDraw = True
+72.8459 	EXP 	digit: autoDraw = False
+72.8459 	EXP 	text_3: autoDraw = True
+72.9523 	EXP 	text_3: autoDraw = False
+72.9523 	EXP 	text_4: autoDraw = True
+72.9523 	EXP 	result_box: autoDraw = True
+72.9523 	EXP 	text_5: autoDraw = True
+73.2518 	DATA 	Keypress: 2
+73.4124 	DATA 	Keypress: 5
+74.2919 	DATA 	Keypress: 7
+74.4740 	DATA 	Keypress: 6
+74.8687 	DATA 	Keypress: 4
+75.1664 	EXP 	New trial (rep=8, index=0): None
+75.1673 	DATA 	Keypress: space
+75.1725 	EXP 	text_4: autoDraw = False
+75.1725 	EXP 	result_box: autoDraw = False
+75.1725 	EXP 	text_5: autoDraw = False
+75.1725 	EXP 	text_2: autoDraw = True
+76.1673 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+76.1677 	EXP 	New trial (rep=0, index=0): None
+76.1732 	EXP 	text_2: autoDraw = False
+76.1732 	EXP 	text_2: autoDraw = False
+76.1732 	EXP 	digit: height = 0.5
+76.1732 	EXP 	digit: height = 0.5
+76.1732 	EXP 	digit: height = 0.5
+76.1732 	EXP 	digit: text = '7'
+76.1732 	EXP 	digit: autoDraw = True
+77.1725 	EXP 	digit: autoDraw = False
+77.1725 	EXP 	digit: autoDraw = False
+77.1725 	EXP 	text_3: autoDraw = True
+77.2698 	EXP 	New trial (rep=1, index=0): None
+77.2766 	EXP 	text_3: autoDraw = False
+77.2766 	EXP 	digit: height = 0.5
+77.2766 	EXP 	digit: height = 0.5
+77.2766 	EXP 	digit: height = 0.5
+77.2766 	EXP 	digit: text = '1'
+77.2766 	EXP 	digit: autoDraw = True
+78.2765 	EXP 	digit: autoDraw = False
+78.2765 	EXP 	text_3: autoDraw = True
+78.3680 	EXP 	New trial (rep=2, index=0): None
+78.3742 	EXP 	text_3: autoDraw = False
+78.3742 	EXP 	digit: height = 0.5
+78.3742 	EXP 	digit: height = 0.5
+78.3742 	EXP 	digit: height = 0.5
+78.3742 	EXP 	digit: text = '4'
+78.3742 	EXP 	digit: autoDraw = True
+79.3734 	EXP 	digit: autoDraw = False
+79.3734 	EXP 	text_3: autoDraw = True
+79.4711 	EXP 	New trial (rep=3, index=0): None
+79.4779 	EXP 	text_3: autoDraw = False
+79.4779 	EXP 	digit: height = 0.5
+79.4779 	EXP 	digit: height = 0.5
+79.4779 	EXP 	digit: height = 0.5
+79.4779 	EXP 	digit: text = '6'
+79.4779 	EXP 	digit: autoDraw = True
+80.4782 	EXP 	digit: autoDraw = False
+80.4782 	EXP 	text_3: autoDraw = True
+80.5685 	EXP 	New trial (rep=4, index=0): None
+80.5755 	EXP 	text_3: autoDraw = False
+80.5755 	EXP 	digit: height = 0.5
+80.5755 	EXP 	digit: height = 0.5
+80.5755 	EXP 	digit: height = 0.5
+80.5755 	EXP 	digit: text = '5'
+80.5755 	EXP 	digit: autoDraw = True
+81.5753 	EXP 	digit: autoDraw = False
+81.5753 	EXP 	text_3: autoDraw = True
+81.6793 	EXP 	text_3: autoDraw = False
+81.6793 	EXP 	text_4: autoDraw = True
+81.6793 	EXP 	result_box: autoDraw = True
+81.6793 	EXP 	text_5: autoDraw = True
+82.3132 	DATA 	Keypress: 7
+82.4802 	DATA 	Keypress: 1
+82.7931 	DATA 	Keypress: 4
+83.5007 	DATA 	Keypress: 8
+83.7791 	DATA 	Keypress: space
+83.7838 	EXP 	New trial (rep=9, index=0): None
+83.7896 	EXP 	text_4: autoDraw = False
+83.7896 	EXP 	result_box: autoDraw = False
+83.7896 	EXP 	text_5: autoDraw = False
+83.7896 	EXP 	text_2: autoDraw = True
+84.7846 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+84.7848 	EXP 	New trial (rep=0, index=0): None
+84.7904 	EXP 	text_2: autoDraw = False
+84.7904 	EXP 	text_2: autoDraw = False
+84.7904 	EXP 	digit: height = 0.5
+84.7904 	EXP 	digit: height = 0.5
+84.7904 	EXP 	digit: height = 0.5
+84.7904 	EXP 	digit: text = '1'
+84.7904 	EXP 	digit: autoDraw = True
+85.7905 	EXP 	digit: autoDraw = False
+85.7905 	EXP 	digit: autoDraw = False
+85.7905 	EXP 	text_3: autoDraw = True
+85.8876 	EXP 	New trial (rep=1, index=0): None
+85.8939 	EXP 	text_3: autoDraw = False
+85.8939 	EXP 	digit: height = 0.5
+85.8939 	EXP 	digit: height = 0.5
+85.8939 	EXP 	digit: height = 0.5
+85.8939 	EXP 	digit: text = '9'
+85.8939 	EXP 	digit: autoDraw = True
+86.8940 	EXP 	digit: autoDraw = False
+86.8940 	EXP 	text_3: autoDraw = True
+86.9850 	EXP 	New trial (rep=2, index=0): None
+86.9916 	EXP 	text_3: autoDraw = False
+86.9916 	EXP 	digit: height = 0.5
+86.9916 	EXP 	digit: height = 0.5
+86.9916 	EXP 	digit: height = 0.5
+86.9916 	EXP 	digit: text = '3'
+86.9916 	EXP 	digit: autoDraw = True
+87.9918 	EXP 	digit: autoDraw = False
+87.9918 	EXP 	text_3: autoDraw = True
+88.0899 	EXP 	New trial (rep=3, index=0): None
+88.0970 	EXP 	text_3: autoDraw = False
+88.0970 	EXP 	digit: height = 0.5
+88.0970 	EXP 	digit: height = 0.5
+88.0970 	EXP 	digit: height = 0.5
+88.0970 	EXP 	digit: text = '8'
+88.0970 	EXP 	digit: autoDraw = True
+89.0955 	EXP 	digit: autoDraw = False
+89.0955 	EXP 	text_3: autoDraw = True
+89.1864 	EXP 	New trial (rep=4, index=0): None
+89.1931 	EXP 	text_3: autoDraw = False
+89.1931 	EXP 	digit: height = 0.5
+89.1931 	EXP 	digit: height = 0.5
+89.1931 	EXP 	digit: height = 0.5
+89.1931 	EXP 	digit: text = '5'
+89.1931 	EXP 	digit: autoDraw = True
+90.1930 	EXP 	digit: autoDraw = False
+90.1930 	EXP 	text_3: autoDraw = True
+90.3003 	EXP 	text_3: autoDraw = False
+90.3003 	EXP 	text_4: autoDraw = True
+90.3003 	EXP 	result_box: autoDraw = True
+90.3003 	EXP 	text_5: autoDraw = True
+90.8205 	DATA 	Keypress: 1
+90.9800 	DATA 	Keypress: 9
+91.3272 	DATA 	Keypress: 8
+91.7103 	DATA 	Keypress: 3
+92.1685 	DATA 	Keypress: 1
+92.5772 	DATA 	Keypress: 5
+92.8615 	DATA 	Keypress: space
+92.8669 	EXP 	New trial (rep=10, index=0): None
+92.8733 	EXP 	text_4: autoDraw = False
+92.8733 	EXP 	result_box: autoDraw = False
+92.8733 	EXP 	text_5: autoDraw = False
+92.8733 	EXP 	text_2: autoDraw = True
+93.8683 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+93.8686 	EXP 	New trial (rep=0, index=0): None
+93.8736 	EXP 	text_2: autoDraw = False
+93.8736 	EXP 	text_2: autoDraw = False
+93.8736 	EXP 	digit: height = 0.5
+93.8736 	EXP 	digit: height = 0.5
+93.8736 	EXP 	digit: height = 0.5
+93.8736 	EXP 	digit: text = '1'
+93.8736 	EXP 	digit: autoDraw = True
+94.8735 	EXP 	digit: autoDraw = False
+94.8735 	EXP 	digit: autoDraw = False
+94.8735 	EXP 	text_3: autoDraw = True
+94.9710 	EXP 	New trial (rep=1, index=0): None
+94.9775 	EXP 	text_3: autoDraw = False
+94.9775 	EXP 	digit: height = 0.5
+94.9775 	EXP 	digit: height = 0.5
+94.9775 	EXP 	digit: height = 0.5
+94.9775 	EXP 	digit: text = '5'
+94.9775 	EXP 	digit: autoDraw = True
+95.9776 	EXP 	digit: autoDraw = False
+95.9776 	EXP 	text_3: autoDraw = True
+96.0685 	EXP 	New trial (rep=2, index=0): None
+96.0749 	EXP 	text_3: autoDraw = False
+96.0749 	EXP 	digit: height = 0.5
+96.0749 	EXP 	digit: height = 0.5
+96.0749 	EXP 	digit: height = 0.5
+96.0749 	EXP 	digit: text = '0'
+96.0749 	EXP 	digit: autoDraw = True
+97.0748 	EXP 	digit: autoDraw = False
+97.0748 	EXP 	text_3: autoDraw = True
+97.1724 	EXP 	New trial (rep=3, index=0): None
+97.1786 	EXP 	text_3: autoDraw = False
+97.1786 	EXP 	digit: height = 0.5
+97.1786 	EXP 	digit: height = 0.5
+97.1786 	EXP 	digit: height = 0.5
+97.1786 	EXP 	digit: text = '3'
+97.1786 	EXP 	digit: autoDraw = True
+98.1791 	EXP 	digit: autoDraw = False
+98.1791 	EXP 	text_3: autoDraw = True
+98.2699 	EXP 	New trial (rep=4, index=0): None
+98.2762 	EXP 	text_3: autoDraw = False
+98.2762 	EXP 	digit: height = 0.5
+98.2762 	EXP 	digit: height = 0.5
+98.2762 	EXP 	digit: height = 0.5
+98.2762 	EXP 	digit: text = '6'
+98.2762 	EXP 	digit: autoDraw = True
+99.2761 	EXP 	digit: autoDraw = False
+99.2761 	EXP 	text_3: autoDraw = True
+99.3800 	EXP 	text_3: autoDraw = False
+99.3800 	EXP 	text_4: autoDraw = True
+99.3800 	EXP 	result_box: autoDraw = True
+99.3800 	EXP 	text_5: autoDraw = True
+100.1119 	DATA 	Keypress: 1
+100.2985 	DATA 	Keypress: 5
+101.3680 	DATA 	Keypress: 3
+101.4726 	DATA 	Keypress: 0
+101.8259 	DATA 	Keypress: 6
+102.0691 	EXP 	New trial (rep=11, index=0): None
+102.0701 	DATA 	Keypress: space
+102.0739 	EXP 	text_4: autoDraw = False
+102.0739 	EXP 	result_box: autoDraw = False
+102.0739 	EXP 	text_5: autoDraw = False
+102.0739 	EXP 	text_2: autoDraw = True
+103.0677 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+103.0679 	EXP 	New trial (rep=0, index=0): None
+103.0745 	EXP 	text_2: autoDraw = False
+103.0745 	EXP 	text_2: autoDraw = False
+103.0745 	EXP 	digit: height = 0.5
+103.0745 	EXP 	digit: height = 0.5
+103.0745 	EXP 	digit: height = 0.5
+103.0745 	EXP 	digit: text = '9'
+103.0745 	EXP 	digit: autoDraw = True
+104.0748 	EXP 	digit: autoDraw = False
+104.0748 	EXP 	digit: autoDraw = False
+104.0748 	EXP 	text_3: autoDraw = True
+104.1718 	EXP 	New trial (rep=1, index=0): None
+104.1788 	EXP 	text_3: autoDraw = False
+104.1788 	EXP 	digit: height = 0.5
+104.1788 	EXP 	digit: height = 0.5
+104.1788 	EXP 	digit: height = 0.5
+104.1788 	EXP 	digit: text = '4'
+104.1788 	EXP 	digit: autoDraw = True
+105.1789 	EXP 	digit: autoDraw = False
+105.1789 	EXP 	text_3: autoDraw = True
+105.2695 	EXP 	New trial (rep=2, index=0): None
+105.2761 	EXP 	text_3: autoDraw = False
+105.2761 	EXP 	digit: height = 0.5
+105.2761 	EXP 	digit: height = 0.5
+105.2761 	EXP 	digit: height = 0.5
+105.2761 	EXP 	digit: text = '5'
+105.2761 	EXP 	digit: autoDraw = True
+106.2753 	EXP 	digit: autoDraw = False
+106.2753 	EXP 	digit: autoDraw = False
+106.2753 	EXP 	text_3: autoDraw = True
+106.3735 	EXP 	New trial (rep=3, index=0): None
+106.3796 	EXP 	text_3: autoDraw = False
+106.3796 	EXP 	digit: height = 0.5
+106.3796 	EXP 	digit: height = 0.5
+106.3796 	EXP 	digit: height = 0.5
+106.3796 	EXP 	digit: text = '8'
+106.3796 	EXP 	digit: autoDraw = True
+107.3802 	EXP 	digit: autoDraw = False
+107.3802 	EXP 	text_3: autoDraw = True
+107.4713 	EXP 	New trial (rep=4, index=0): None
+107.4795 	EXP 	text_3: autoDraw = False
+107.4795 	EXP 	digit: height = 0.5
+107.4795 	EXP 	digit: height = 0.5
+107.4795 	EXP 	digit: height = 0.5
+107.4795 	EXP 	digit: text = '6'
+107.4795 	EXP 	digit: autoDraw = True
+108.4772 	EXP 	digit: autoDraw = False
+108.4772 	EXP 	text_3: autoDraw = True
+108.5820 	EXP 	text_3: autoDraw = False
+108.5820 	EXP 	text_4: autoDraw = True
+108.5820 	EXP 	result_box: autoDraw = True
+108.5820 	EXP 	text_5: autoDraw = True
+108.9794 	DATA 	Keypress: 2
+109.7221 	DATA 	Keypress: 5
+110.3338 	DATA 	Keypress: 7
+111.0285 	DATA 	Keypress: 6
+111.1400 	DATA 	Keypress: 8
+111.4507 	EXP 	New trial (rep=12, index=0): None
+111.4518 	DATA 	Keypress: space
+111.4563 	EXP 	text_4: autoDraw = False
+111.4563 	EXP 	result_box: autoDraw = False
+111.4563 	EXP 	text_5: autoDraw = False
+111.4563 	EXP 	text_2: autoDraw = True
+112.4500 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+112.4502 	EXP 	New trial (rep=0, index=0): None
+112.4560 	EXP 	text_2: autoDraw = False
+112.4560 	EXP 	text_2: autoDraw = False
+112.4560 	EXP 	digit: height = 0.5
+112.4560 	EXP 	digit: height = 0.5
+112.4560 	EXP 	digit: height = 0.5
+112.4560 	EXP 	digit: text = '2'
+112.4560 	EXP 	digit: autoDraw = True
+113.4564 	EXP 	digit: autoDraw = False
+113.4564 	EXP 	digit: autoDraw = False
+113.4564 	EXP 	text_3: autoDraw = True
+113.5543 	EXP 	New trial (rep=1, index=0): None
+113.5605 	EXP 	text_3: autoDraw = False
+113.5605 	EXP 	digit: height = 0.5
+113.5605 	EXP 	digit: height = 0.5
+113.5605 	EXP 	digit: height = 0.5
+113.5605 	EXP 	digit: text = '0'
+113.5605 	EXP 	digit: autoDraw = True
+114.5604 	EXP 	digit: autoDraw = False
+114.5604 	EXP 	text_3: autoDraw = True
+114.6515 	EXP 	New trial (rep=2, index=0): None
+114.6576 	EXP 	text_3: autoDraw = False
+114.6576 	EXP 	digit: height = 0.5
+114.6576 	EXP 	digit: height = 0.5
+114.6576 	EXP 	digit: height = 0.5
+114.6576 	EXP 	digit: text = '8'
+114.6576 	EXP 	digit: autoDraw = True
+115.6576 	EXP 	digit: autoDraw = False
+115.6576 	EXP 	digit: autoDraw = False
+115.6576 	EXP 	text_3: autoDraw = True
+115.7556 	EXP 	New trial (rep=3, index=0): None
+115.7627 	EXP 	text_3: autoDraw = False
+115.7627 	EXP 	digit: height = 0.5
+115.7627 	EXP 	digit: height = 0.5
+115.7627 	EXP 	digit: height = 0.5
+115.7627 	EXP 	digit: text = '9'
+115.7627 	EXP 	digit: autoDraw = True
+116.7619 	EXP 	digit: autoDraw = False
+116.7619 	EXP 	text_3: autoDraw = True
+116.8527 	EXP 	New trial (rep=4, index=0): None
+116.8594 	EXP 	text_3: autoDraw = False
+116.8594 	EXP 	digit: height = 0.5
+116.8594 	EXP 	digit: height = 0.5
+116.8594 	EXP 	digit: height = 0.5
+116.8594 	EXP 	digit: text = '6'
+116.8594 	EXP 	digit: autoDraw = True
+117.3417 	DATA 	Keypress: 2
+117.8593 	EXP 	digit: autoDraw = False
+117.8593 	EXP 	text_3: autoDraw = True
+117.9654 	EXP 	text_3: autoDraw = False
+117.9654 	EXP 	text_4: autoDraw = True
+117.9654 	EXP 	result_box: autoDraw = True
+117.9654 	EXP 	text_5: autoDraw = True
+118.3336 	DATA 	Keypress: 2
+118.4790 	DATA 	Keypress: 0
+118.8534 	DATA 	Keypress: 8
+119.0006 	DATA 	Keypress: 9
+119.6325 	DATA 	Keypress: 6
+119.8602 	EXP 	New trial (rep=13, index=0): None
+119.8619 	DATA 	Keypress: space
+119.8657 	EXP 	text_4: autoDraw = False
+119.8657 	EXP 	result_box: autoDraw = False
+119.8657 	EXP 	text_5: autoDraw = False
+119.8657 	EXP 	text_2: autoDraw = True
+120.8601 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+120.8603 	EXP 	New trial (rep=0, index=0): None
+120.8660 	EXP 	text_2: autoDraw = False
+120.8660 	EXP 	text_2: autoDraw = False
+120.8660 	EXP 	digit: height = 0.5
+120.8660 	EXP 	digit: height = 0.5
+120.8660 	EXP 	digit: height = 0.5
+120.8660 	EXP 	digit: text = '4'
+120.8660 	EXP 	digit: autoDraw = True
+121.8663 	EXP 	digit: autoDraw = False
+121.8663 	EXP 	digit: autoDraw = False
+121.8663 	EXP 	text_3: autoDraw = True
+121.9635 	EXP 	New trial (rep=1, index=0): None
+121.9700 	EXP 	text_3: autoDraw = False
+121.9700 	EXP 	digit: height = 0.5
+121.9700 	EXP 	digit: height = 0.5
+121.9700 	EXP 	digit: height = 0.5
+121.9700 	EXP 	digit: text = '1'
+121.9700 	EXP 	digit: autoDraw = True
+122.9704 	EXP 	digit: autoDraw = False
+122.9704 	EXP 	text_3: autoDraw = True
+123.0604 	EXP 	New trial (rep=2, index=0): None
+123.0670 	EXP 	text_3: autoDraw = False
+123.0670 	EXP 	digit: height = 0.5
+123.0670 	EXP 	digit: height = 0.5
+123.0670 	EXP 	digit: height = 0.5
+123.0670 	EXP 	digit: text = '6'
+123.0670 	EXP 	digit: autoDraw = True
+124.0672 	EXP 	digit: autoDraw = False
+124.0672 	EXP 	text_3: autoDraw = True
+124.1656 	EXP 	New trial (rep=3, index=0): None
+124.1725 	EXP 	text_3: autoDraw = False
+124.1725 	EXP 	digit: height = 0.5
+124.1725 	EXP 	digit: height = 0.5
+124.1725 	EXP 	digit: height = 0.5
+124.1725 	EXP 	digit: text = '2'
+124.1725 	EXP 	digit: autoDraw = True
+125.1715 	EXP 	digit: autoDraw = False
+125.1715 	EXP 	text_3: autoDraw = True
+125.2623 	EXP 	New trial (rep=4, index=0): None
+125.2687 	EXP 	text_3: autoDraw = False
+125.2687 	EXP 	digit: height = 0.5
+125.2687 	EXP 	digit: height = 0.5
+125.2687 	EXP 	digit: height = 0.5
+125.2687 	EXP 	digit: text = '9'
+125.2687 	EXP 	digit: autoDraw = True
+126.2688 	EXP 	digit: autoDraw = False
+126.2688 	EXP 	text_3: autoDraw = True
+126.3758 	EXP 	text_3: autoDraw = False
+126.3758 	EXP 	text_4: autoDraw = True
+126.3758 	EXP 	result_box: autoDraw = True
+126.3758 	EXP 	text_5: autoDraw = True
+126.8749 	DATA 	Keypress: 4
+127.0481 	DATA 	Keypress: 2
+127.1877 	DATA 	Keypress: 6
+127.6941 	DATA 	Keypress: backspace
+127.8541 	DATA 	Keypress: backspace
+128.0072 	DATA 	Keypress: backspace
+128.1601 	DATA 	Keypress: backspace
+128.2710 	DATA 	Keypress: 4
+128.7362 	DATA 	Keypress: 1
+129.0554 	DATA 	Keypress: 6
+129.1595 	DATA 	Keypress: 2
+129.3248 	EXP 	New trial (rep=14, index=0): None
+129.3257 	DATA 	Keypress: space
+129.3308 	EXP 	text_4: autoDraw = False
+129.3308 	EXP 	result_box: autoDraw = False
+129.3308 	EXP 	text_5: autoDraw = False
+129.3308 	EXP 	text_2: autoDraw = True
+130.3250 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+130.3253 	EXP 	New trial (rep=0, index=0): None
+130.3317 	EXP 	text_2: autoDraw = False
+130.3317 	EXP 	text_2: autoDraw = False
+130.3317 	EXP 	digit: height = 0.5
+130.3317 	EXP 	digit: height = 0.5
+130.3317 	EXP 	digit: height = 0.5
+130.3317 	EXP 	digit: text = '3'
+130.3317 	EXP 	digit: autoDraw = True
+131.3310 	EXP 	digit: autoDraw = False
+131.3310 	EXP 	digit: autoDraw = False
+131.3310 	EXP 	text_3: autoDraw = True
+131.4286 	EXP 	New trial (rep=1, index=0): None
+131.4352 	EXP 	text_3: autoDraw = False
+131.4352 	EXP 	digit: height = 0.5
+131.4352 	EXP 	digit: height = 0.5
+131.4352 	EXP 	digit: height = 0.5
+131.4352 	EXP 	digit: text = '5'
+131.4352 	EXP 	digit: autoDraw = True
+132.4345 	EXP 	digit: autoDraw = False
+132.4345 	EXP 	text_3: autoDraw = True
+132.5254 	EXP 	New trial (rep=2, index=0): None
+132.5317 	EXP 	text_3: autoDraw = False
+132.5317 	EXP 	digit: height = 0.5
+132.5317 	EXP 	digit: height = 0.5
+132.5317 	EXP 	digit: height = 0.5
+132.5317 	EXP 	digit: text = '6'
+132.5317 	EXP 	digit: autoDraw = True
+133.5321 	EXP 	digit: autoDraw = False
+133.5321 	EXP 	text_3: autoDraw = True
+133.6296 	EXP 	New trial (rep=3, index=0): None
+133.6364 	EXP 	text_3: autoDraw = False
+133.6364 	EXP 	digit: height = 0.5
+133.6364 	EXP 	digit: height = 0.5
+133.6364 	EXP 	digit: height = 0.5
+133.6364 	EXP 	digit: text = '2'
+133.6364 	EXP 	digit: autoDraw = True
+134.6369 	EXP 	digit: autoDraw = False
+134.6369 	EXP 	text_3: autoDraw = True
+134.7266 	EXP 	New trial (rep=4, index=0): None
+134.7337 	EXP 	text_3: autoDraw = False
+134.7337 	EXP 	digit: height = 0.5
+134.7337 	EXP 	digit: height = 0.5
+134.7337 	EXP 	digit: height = 0.5
+134.7337 	EXP 	digit: text = '9'
+134.7337 	EXP 	digit: autoDraw = True
+135.7334 	EXP 	digit: autoDraw = False
+135.7334 	EXP 	text_3: autoDraw = True
+135.8373 	EXP 	text_3: autoDraw = False
+135.8373 	EXP 	text_4: autoDraw = True
+135.8373 	EXP 	result_box: autoDraw = True
+135.8373 	EXP 	text_5: autoDraw = True
+136.7496 	DATA 	Keypress: 3
+136.9507 	DATA 	Keypress: 5
+137.1669 	DATA 	Keypress: 6
+137.8047 	DATA 	Keypress: 9
+138.0899 	DATA 	Keypress: 2
+138.2569 	DATA 	Keypress: space
+138.2614 	EXP 	text_4: autoDraw = False
+138.2614 	EXP 	result_box: autoDraw = False
+138.2614 	EXP 	text_5: autoDraw = False
+138.2614 	EXP 	text_6: autoDraw = True
+138.9933 	EXP 	New trial (rep=1, index=0): None
+138.9937 	EXP 	Created sequence: sequential, trialTypes=1, nReps=15, seed=None
+138.9939 	EXP 	New trial (rep=0, index=0): None
+138.9957 	DATA 	Keypress: space
+138.9986 	EXP 	text_6: autoDraw = False
+138.9986 	EXP 	text_2: autoDraw = True
+139.9979 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+139.9981 	EXP 	New trial (rep=0, index=0): None
+140.0043 	EXP 	text_2: autoDraw = False
+140.0043 	EXP 	digit: height = 0.5
+140.0043 	EXP 	digit: height = 0.5
+140.0043 	EXP 	digit: height = 0.5
+140.0043 	EXP 	digit: text = '4'
+140.0043 	EXP 	digit: autoDraw = True
+141.0036 	EXP 	digit: autoDraw = False
+141.0036 	EXP 	text_3: autoDraw = True
+141.0949 	EXP 	New trial (rep=1, index=0): None
+141.1014 	EXP 	text_3: autoDraw = False
+141.1014 	EXP 	digit: height = 0.5
+141.1014 	EXP 	digit: height = 0.5
+141.1014 	EXP 	digit: height = 0.5
+141.1014 	EXP 	digit: text = '2'
+141.1014 	EXP 	digit: autoDraw = True
+142.1016 	EXP 	digit: autoDraw = False
+142.1016 	EXP 	text_3: autoDraw = True
+142.1993 	EXP 	New trial (rep=2, index=0): None
+142.2054 	EXP 	text_3: autoDraw = False
+142.2054 	EXP 	digit: height = 0.5
+142.2054 	EXP 	digit: height = 0.5
+142.2054 	EXP 	digit: height = 0.5
+142.2054 	EXP 	digit: text = '8'
+142.2054 	EXP 	digit: autoDraw = True
+143.2056 	EXP 	digit: autoDraw = False
+143.2056 	EXP 	text_3: autoDraw = True
+143.3037 	EXP 	text_3: autoDraw = False
+143.3037 	EXP 	text_4: autoDraw = True
+143.3037 	EXP 	result_box: autoDraw = True
+143.3037 	EXP 	text_5: autoDraw = True
+147.0624 	DATA 	Keypress: 4
+147.2629 	DATA 	Keypress: 2
+147.6046 	DATA 	Keypress: 8
+148.4431 	DATA 	Keypress: 5
+148.9215 	EXP 	New trial (rep=1, index=0): None
+148.9223 	DATA 	Keypress: space
+148.9277 	EXP 	text_4: autoDraw = False
+148.9277 	EXP 	result_box: autoDraw = False
+148.9277 	EXP 	text_5: autoDraw = False
+148.9277 	EXP 	text_2: autoDraw = True
+149.9216 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+149.9219 	EXP 	New trial (rep=0, index=0): None
+149.9279 	EXP 	text_2: autoDraw = False
+149.9279 	EXP 	text_2: autoDraw = False
+149.9279 	EXP 	digit: height = 0.5
+149.9279 	EXP 	digit: height = 0.5
+149.9279 	EXP 	digit: height = 0.5
+149.9279 	EXP 	digit: text = '7'
+149.9279 	EXP 	digit: autoDraw = True
+150.9279 	EXP 	digit: autoDraw = False
+150.9279 	EXP 	digit: autoDraw = False
+150.9279 	EXP 	text_3: autoDraw = True
+151.0250 	EXP 	New trial (rep=1, index=0): None
+151.0317 	EXP 	text_3: autoDraw = False
+151.0317 	EXP 	digit: height = 0.5
+151.0317 	EXP 	digit: height = 0.5
+151.0317 	EXP 	digit: height = 0.5
+151.0317 	EXP 	digit: text = '3'
+151.0317 	EXP 	digit: autoDraw = True
+152.0317 	EXP 	digit: autoDraw = False
+152.0317 	EXP 	text_3: autoDraw = True
+152.1224 	EXP 	New trial (rep=2, index=0): None
+152.1291 	EXP 	text_3: autoDraw = False
+152.1291 	EXP 	digit: height = 0.5
+152.1291 	EXP 	digit: height = 0.5
+152.1291 	EXP 	digit: height = 0.5
+152.1291 	EXP 	digit: text = '2'
+152.1291 	EXP 	digit: autoDraw = True
+153.1288 	EXP 	digit: autoDraw = False
+153.1288 	EXP 	text_3: autoDraw = True
+153.2360 	EXP 	text_3: autoDraw = False
+153.2360 	EXP 	text_4: autoDraw = True
+153.2360 	EXP 	result_box: autoDraw = True
+153.2360 	EXP 	text_5: autoDraw = True
+155.6601 	DATA 	Keypress: 4
+155.9370 	DATA 	Keypress: 2
+156.5551 	DATA 	Keypress: 5
+156.8272 	DATA 	Keypress: 8
+157.0418 	DATA 	Keypress: 2
+158.3463 	DATA 	Keypress: backspace
+158.5630 	DATA 	Keypress: 3
+158.8871 	EXP 	New trial (rep=2, index=0): None
+158.8880 	DATA 	Keypress: space
+158.8927 	EXP 	text_4: autoDraw = False
+158.8927 	EXP 	result_box: autoDraw = False
+158.8927 	EXP 	text_5: autoDraw = False
+158.8927 	EXP 	text_2: autoDraw = True
+159.8875 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+159.8879 	EXP 	New trial (rep=0, index=0): None
+159.8933 	EXP 	text_2: autoDraw = False
+159.8933 	EXP 	text_2: autoDraw = False
+159.8933 	EXP 	digit: height = 0.5
+159.8933 	EXP 	digit: height = 0.5
+159.8933 	EXP 	digit: height = 0.5
+159.8933 	EXP 	digit: text = '4'
+159.8933 	EXP 	digit: autoDraw = True
+160.8922 	EXP 	digit: autoDraw = False
+160.8922 	EXP 	digit: autoDraw = False
+160.8922 	EXP 	text_3: autoDraw = True
+160.9901 	EXP 	New trial (rep=1, index=0): None
+160.9970 	EXP 	text_3: autoDraw = False
+160.9970 	EXP 	digit: height = 0.5
+160.9970 	EXP 	digit: height = 0.5
+160.9970 	EXP 	digit: height = 0.5
+160.9970 	EXP 	digit: text = '1'
+160.9970 	EXP 	digit: autoDraw = True
+161.9967 	EXP 	digit: autoDraw = False
+161.9967 	EXP 	text_3: autoDraw = True
+162.0944 	EXP 	New trial (rep=2, index=0): None
+162.1004 	EXP 	text_3: autoDraw = False
+162.1004 	EXP 	digit: height = 0.5
+162.1004 	EXP 	digit: height = 0.5
+162.1004 	EXP 	digit: height = 0.5
+162.1004 	EXP 	digit: text = '6'
+162.1004 	EXP 	digit: autoDraw = True
+163.0942 	EXP 	digit: autoDraw = False
+163.0942 	EXP 	text_3: autoDraw = True
+163.1996 	EXP 	text_3: autoDraw = False
+163.1996 	EXP 	text_4: autoDraw = True
+163.1996 	EXP 	result_box: autoDraw = True
+163.1996 	EXP 	text_5: autoDraw = True
+163.7702 	DATA 	Keypress: 1
+164.3264 	DATA 	Keypress: 3
+164.6306 	DATA 	Keypress: 6
+164.8333 	DATA 	Keypress: space
+164.8380 	EXP 	New trial (rep=3, index=0): None
+164.8439 	EXP 	text_4: autoDraw = False
+164.8439 	EXP 	result_box: autoDraw = False
+164.8439 	EXP 	text_5: autoDraw = False
+164.8439 	EXP 	text_2: autoDraw = True
+165.8381 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+165.8383 	EXP 	New trial (rep=0, index=0): None
+165.8441 	EXP 	text_2: autoDraw = False
+165.8441 	EXP 	text_2: autoDraw = False
+165.8441 	EXP 	digit: text = '6'
+165.8441 	EXP 	digit: autoDraw = True
+166.8437 	EXP 	digit: autoDraw = False
+166.8437 	EXP 	digit: autoDraw = False
+166.8437 	EXP 	text_3: autoDraw = True
+166.9412 	EXP 	New trial (rep=1, index=0): None
+166.9480 	EXP 	text_3: autoDraw = False
+166.9480 	EXP 	digit: height = 0.5
+166.9480 	EXP 	digit: height = 0.5
+166.9480 	EXP 	digit: height = 0.5
+166.9480 	EXP 	digit: text = '7'
+166.9480 	EXP 	digit: autoDraw = True
+167.9479 	EXP 	digit: autoDraw = False
+167.9479 	EXP 	text_3: autoDraw = True
+168.0386 	EXP 	New trial (rep=2, index=0): None
+168.0456 	EXP 	text_3: autoDraw = False
+168.0456 	EXP 	digit: height = 0.5
+168.0456 	EXP 	digit: height = 0.5
+168.0456 	EXP 	digit: height = 0.5
+168.0456 	EXP 	digit: text = '9'
+168.0456 	EXP 	digit: autoDraw = True
+169.0455 	EXP 	digit: autoDraw = False
+169.0455 	EXP 	text_3: autoDraw = True
+169.1496 	EXP 	text_3: autoDraw = False
+169.1496 	EXP 	text_4: autoDraw = True
+169.1496 	EXP 	result_box: autoDraw = True
+169.1496 	EXP 	text_5: autoDraw = True
+170.6035 	DATA 	Keypress: 6
+170.7077 	DATA 	Keypress: 7
+170.9220 	DATA 	Keypress: 9
+171.4627 	EXP 	New trial (rep=4, index=0): None
+171.4637 	DATA 	Keypress: space
+171.4685 	EXP 	text_4: autoDraw = False
+171.4685 	EXP 	result_box: autoDraw = False
+171.4685 	EXP 	text_5: autoDraw = False
+171.4685 	EXP 	text_2: autoDraw = True
+172.4632 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+172.4635 	EXP 	New trial (rep=0, index=0): None
+172.4697 	EXP 	text_2: autoDraw = False
+172.4697 	EXP 	text_2: autoDraw = False
+172.4697 	EXP 	digit: height = 0.5
+172.4697 	EXP 	digit: height = 0.5
+172.4697 	EXP 	digit: height = 0.5
+172.4697 	EXP 	digit: text = '2'
+172.4697 	EXP 	digit: autoDraw = True
+173.4686 	EXP 	digit: autoDraw = False
+173.4686 	EXP 	digit: autoDraw = False
+173.4686 	EXP 	text_3: autoDraw = True
+173.5660 	EXP 	New trial (rep=1, index=0): None
+173.5723 	EXP 	text_3: autoDraw = False
+173.5723 	EXP 	digit: height = 0.5
+173.5723 	EXP 	digit: height = 0.5
+173.5723 	EXP 	digit: height = 0.5
+173.5723 	EXP 	digit: text = '8'
+173.5723 	EXP 	digit: autoDraw = True
+174.5730 	EXP 	digit: autoDraw = False
+174.5730 	EXP 	text_3: autoDraw = True
+174.6636 	EXP 	New trial (rep=2, index=0): None
+174.6723 	EXP 	text_3: autoDraw = False
+174.6723 	EXP 	digit: height = 0.5
+174.6723 	EXP 	digit: height = 0.5
+174.6723 	EXP 	digit: height = 0.5
+174.6723 	EXP 	digit: text = '0'
+174.6723 	EXP 	digit: autoDraw = True
+175.6703 	EXP 	digit: autoDraw = False
+175.6703 	EXP 	text_3: autoDraw = True
+175.7775 	EXP 	text_3: autoDraw = False
+175.7775 	EXP 	text_4: autoDraw = True
+175.7775 	EXP 	result_box: autoDraw = True
+175.7775 	EXP 	text_5: autoDraw = True
+218.2486 	DATA 	Keypress: l
+218.2829 	DATA 	Keypress: k
+218.3112 	DATA 	Keypress: j
+218.3384 	DATA 	Keypress: i
+218.3727 	DATA 	Keypress: h
+218.4010 	DATA 	Keypress: z
+218.9341 	EXP 	New trial (rep=5, index=0): None
+218.9352 	DATA 	Keypress: space
+218.9399 	EXP 	text_4: autoDraw = False
+218.9399 	EXP 	result_box: autoDraw = False
+218.9399 	EXP 	text_5: autoDraw = False
+218.9399 	EXP 	text_2: autoDraw = True
+219.9345 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+219.9348 	EXP 	New trial (rep=0, index=0): None
+219.9405 	EXP 	text_2: autoDraw = False
+219.9405 	EXP 	text_2: autoDraw = False
+219.9405 	EXP 	digit: height = 0.5
+219.9405 	EXP 	digit: height = 0.5
+219.9405 	EXP 	digit: height = 0.5
+219.9405 	EXP 	digit: text = '8'
+219.9405 	EXP 	digit: autoDraw = True
+220.9402 	EXP 	digit: autoDraw = False
+220.9402 	EXP 	digit: autoDraw = False
+220.9402 	EXP 	text_3: autoDraw = True
+221.0379 	EXP 	New trial (rep=1, index=0): None
+221.0444 	EXP 	text_3: autoDraw = False
+221.0444 	EXP 	digit: height = 0.5
+221.0444 	EXP 	digit: height = 0.5
+221.0444 	EXP 	digit: height = 0.5
+221.0444 	EXP 	digit: text = '1'
+221.0444 	EXP 	digit: autoDraw = True
+222.0437 	EXP 	digit: autoDraw = False
+222.0437 	EXP 	text_3: autoDraw = True
+222.1356 	EXP 	New trial (rep=2, index=0): None
+222.1422 	EXP 	text_3: autoDraw = False
+222.1422 	EXP 	digit: height = 0.5
+222.1422 	EXP 	digit: height = 0.5
+222.1422 	EXP 	digit: height = 0.5
+222.1422 	EXP 	digit: text = '5'
+222.1422 	EXP 	digit: autoDraw = True
+223.1416 	EXP 	digit: autoDraw = False
+223.1416 	EXP 	text_3: autoDraw = True
+223.2459 	EXP 	text_3: autoDraw = False
+223.2459 	EXP 	text_4: autoDraw = True
+223.2459 	EXP 	result_box: autoDraw = True
+223.2459 	EXP 	text_5: autoDraw = True
+224.2483 	DATA 	Keypress: 8
+224.7414 	DATA 	Keypress: 1
+224.8655 	DATA 	Keypress: 5
+225.1651 	DATA 	Keypress: space
+225.1703 	EXP 	New trial (rep=6, index=0): None
+225.1760 	EXP 	text_4: autoDraw = False
+225.1760 	EXP 	result_box: autoDraw = False
+225.1760 	EXP 	text_5: autoDraw = False
+225.1760 	EXP 	text_2: autoDraw = True
+226.1709 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+226.1711 	EXP 	New trial (rep=0, index=0): None
+226.1757 	EXP 	text_2: autoDraw = False
+226.1757 	EXP 	text_2: autoDraw = False
+226.1757 	EXP 	digit: height = 0.5
+226.1757 	EXP 	digit: height = 0.5
+226.1757 	EXP 	digit: height = 0.5
+226.1757 	EXP 	digit: text = '9'
+226.1757 	EXP 	digit: autoDraw = True
+227.1760 	EXP 	digit: autoDraw = False
+227.1760 	EXP 	digit: autoDraw = False
+227.1760 	EXP 	text_3: autoDraw = True
+227.2739 	EXP 	New trial (rep=1, index=0): None
+227.2801 	EXP 	text_3: autoDraw = False
+227.2801 	EXP 	digit: height = 0.5
+227.2801 	EXP 	digit: height = 0.5
+227.2801 	EXP 	digit: height = 0.5
+227.2801 	EXP 	digit: text = '1'
+227.2801 	EXP 	digit: autoDraw = True
+228.2801 	EXP 	digit: autoDraw = False
+228.2801 	EXP 	text_3: autoDraw = True
+228.3708 	EXP 	New trial (rep=2, index=0): None
+228.3775 	EXP 	text_3: autoDraw = False
+228.3775 	EXP 	digit: height = 0.5
+228.3775 	EXP 	digit: height = 0.5
+228.3775 	EXP 	digit: height = 0.5
+228.3775 	EXP 	digit: text = '0'
+228.3775 	EXP 	digit: autoDraw = True
+229.3770 	EXP 	digit: autoDraw = False
+229.3770 	EXP 	digit: autoDraw = False
+229.3770 	EXP 	text_3: autoDraw = True
+229.4839 	EXP 	text_3: autoDraw = False
+229.4839 	EXP 	text_4: autoDraw = True
+229.4839 	EXP 	result_box: autoDraw = True
+229.4839 	EXP 	text_5: autoDraw = True
+230.2629 	DATA 	Keypress: 9
+230.7404 	DATA 	Keypress: 1
+231.2548 	DATA 	Keypress: 0
+231.9062 	EXP 	New trial (rep=7, index=0): None
+231.9075 	DATA 	Keypress: space
+231.9119 	EXP 	text_4: autoDraw = False
+231.9119 	EXP 	result_box: autoDraw = False
+231.9119 	EXP 	text_5: autoDraw = False
+231.9119 	EXP 	text_2: autoDraw = True
+232.9063 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+232.9066 	EXP 	New trial (rep=0, index=0): None
+232.9124 	EXP 	text_2: autoDraw = False
+232.9124 	EXP 	text_2: autoDraw = False
+232.9124 	EXP 	digit: height = 0.5
+232.9124 	EXP 	digit: height = 0.5
+232.9124 	EXP 	digit: height = 0.5
+232.9124 	EXP 	digit: text = '1'
+232.9124 	EXP 	digit: autoDraw = True
+233.9112 	EXP 	digit: autoDraw = False
+233.9112 	EXP 	digit: autoDraw = False
+233.9112 	EXP 	text_3: autoDraw = True
+234.0096 	EXP 	New trial (rep=1, index=0): None
+234.0159 	EXP 	text_3: autoDraw = False
+234.0159 	EXP 	digit: height = 0.5
+234.0159 	EXP 	digit: height = 0.5
+234.0159 	EXP 	digit: height = 0.5
+234.0159 	EXP 	digit: text = '3'
+234.0159 	EXP 	digit: autoDraw = True
+235.0158 	EXP 	digit: autoDraw = False
+235.0158 	EXP 	text_3: autoDraw = True
+235.1071 	EXP 	New trial (rep=2, index=0): None
+235.1146 	EXP 	text_3: autoDraw = False
+235.1146 	EXP 	digit: height = 0.5
+235.1146 	EXP 	digit: height = 0.5
+235.1146 	EXP 	digit: height = 0.5
+235.1146 	EXP 	digit: text = '4'
+235.1146 	EXP 	digit: autoDraw = True
+236.1132 	EXP 	digit: autoDraw = False
+236.1132 	EXP 	text_3: autoDraw = True
+236.2205 	EXP 	text_3: autoDraw = False
+236.2205 	EXP 	text_4: autoDraw = True
+236.2205 	EXP 	result_box: autoDraw = True
+236.2205 	EXP 	text_5: autoDraw = True
+238.1369 	DATA 	Keypress: 3
+238.3111 	DATA 	Keypress: 2
+238.8721 	DATA 	Keypress: 5
+239.0400 	DATA 	Keypress: 4
+239.1906 	EXP 	New trial (rep=8, index=0): None
+239.1919 	DATA 	Keypress: space
+239.1962 	EXP 	text_4: autoDraw = False
+239.1962 	EXP 	result_box: autoDraw = False
+239.1962 	EXP 	text_5: autoDraw = False
+239.1962 	EXP 	text_2: autoDraw = True
+240.1902 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+240.1904 	EXP 	New trial (rep=0, index=0): None
+240.1965 	EXP 	text_2: autoDraw = False
+240.1965 	EXP 	text_2: autoDraw = False
+240.1965 	EXP 	digit: height = 0.5
+240.1965 	EXP 	digit: height = 0.5
+240.1965 	EXP 	digit: height = 0.5
+240.1965 	EXP 	digit: text = '9'
+240.1965 	EXP 	digit: autoDraw = True
+241.1966 	EXP 	digit: autoDraw = False
+241.1966 	EXP 	digit: autoDraw = False
+241.1966 	EXP 	text_3: autoDraw = True
+241.2939 	EXP 	New trial (rep=1, index=0): None
+241.3006 	EXP 	text_3: autoDraw = False
+241.3006 	EXP 	digit: height = 0.5
+241.3006 	EXP 	digit: height = 0.5
+241.3006 	EXP 	digit: height = 0.5
+241.3006 	EXP 	digit: text = '8'
+241.3006 	EXP 	digit: autoDraw = True
+242.3007 	EXP 	digit: autoDraw = False
+242.3007 	EXP 	text_3: autoDraw = True
+242.3912 	EXP 	New trial (rep=2, index=0): None
+242.3978 	EXP 	text_3: autoDraw = False
+242.3978 	EXP 	digit: height = 0.5
+242.3978 	EXP 	digit: height = 0.5
+242.3978 	EXP 	digit: height = 0.5
+242.3978 	EXP 	digit: text = '5'
+242.3978 	EXP 	digit: autoDraw = True
+243.3978 	EXP 	digit: autoDraw = False
+243.3978 	EXP 	text_3: autoDraw = True
+243.5068 	EXP 	text_3: autoDraw = False
+243.5068 	EXP 	text_4: autoDraw = True
+243.5068 	EXP 	result_box: autoDraw = True
+243.5068 	EXP 	text_5: autoDraw = True
+253.6439 	DATA 	Keypress: 8
+253.7118 	DATA 	Keypress: 9
+254.0963 	DATA 	Keypress: 7
+254.1425 	DATA 	Keypress: 8
+254.2676 	DATA 	Keypress: 9
+254.8147 	EXP 	New trial (rep=9, index=0): None
+254.8160 	DATA 	Keypress: space
+254.8206 	EXP 	text_4: autoDraw = False
+254.8206 	EXP 	result_box: autoDraw = False
+254.8206 	EXP 	text_5: autoDraw = False
+254.8206 	EXP 	text_2: autoDraw = True
+255.8155 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+255.8158 	EXP 	New trial (rep=0, index=0): None
+255.8223 	EXP 	text_2: autoDraw = False
+255.8223 	EXP 	text_2: autoDraw = False
+255.8223 	EXP 	digit: height = 0.5
+255.8223 	EXP 	digit: height = 0.5
+255.8223 	EXP 	digit: height = 0.5
+255.8223 	EXP 	digit: text = '3'
+255.8223 	EXP 	digit: autoDraw = True
+256.8274 	EXP 	digit: autoDraw = False
+256.8274 	EXP 	text_3: autoDraw = True
+256.9186 	EXP 	New trial (rep=1, index=0): None
+256.9252 	EXP 	text_3: autoDraw = False
+256.9252 	EXP 	digit: height = 0.5
+256.9252 	EXP 	digit: height = 0.5
+256.9252 	EXP 	digit: height = 0.5
+256.9252 	EXP 	digit: text = '9'
+256.9252 	EXP 	digit: autoDraw = True
+257.9254 	EXP 	digit: autoDraw = False
+257.9254 	EXP 	text_3: autoDraw = True
+257.9889 	DATA 	Keypress: space
+258.0159 	EXP 	New trial (rep=2, index=0): None
+258.0223 	EXP 	text_3: autoDraw = False
+258.0223 	EXP 	digit: height = 0.5
+258.0223 	EXP 	digit: height = 0.5
+258.0223 	EXP 	digit: height = 0.5
+258.0223 	EXP 	digit: text = '2'
+258.0223 	EXP 	digit: autoDraw = True
+259.0221 	EXP 	digit: autoDraw = False
+259.0221 	EXP 	text_3: autoDraw = True
+259.1224 	EXP 	New trial (rep=10, index=0): None
+259.1259 	EXP 	text_3: autoDraw = False
+259.1259 	EXP 	text_4: autoDraw = True
+259.1259 	EXP 	result_box: autoDraw = True
+259.1259 	EXP 	text_5: autoDraw = True
+259.1259 	EXP 	text_4: autoDraw = False
+259.1259 	EXP 	result_box: autoDraw = False
+259.1259 	EXP 	text_5: autoDraw = False
+259.1259 	EXP 	text_2: autoDraw = True
+260.1202 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+260.1204 	EXP 	New trial (rep=0, index=0): None
+260.1265 	EXP 	text_2: autoDraw = False
+260.1265 	EXP 	text_2: autoDraw = False
+260.1265 	EXP 	digit: text = '2'
+260.1265 	EXP 	digit: autoDraw = True
+261.1261 	EXP 	digit: autoDraw = False
+261.1261 	EXP 	digit: autoDraw = False
+261.1261 	EXP 	text_3: autoDraw = True
+261.2242 	EXP 	New trial (rep=1, index=0): None
+261.2307 	EXP 	text_3: autoDraw = False
+261.2307 	EXP 	digit: height = 0.5
+261.2307 	EXP 	digit: height = 0.5
+261.2307 	EXP 	digit: height = 0.5
+261.2307 	EXP 	digit: text = '5'
+261.2307 	EXP 	digit: autoDraw = True
+262.2302 	EXP 	digit: autoDraw = False
+262.2302 	EXP 	text_3: autoDraw = True
+262.3281 	EXP 	New trial (rep=2, index=0): None
+262.3348 	EXP 	text_3: autoDraw = False
+262.3348 	EXP 	digit: height = 0.5
+262.3348 	EXP 	digit: height = 0.5
+262.3348 	EXP 	digit: height = 0.5
+262.3348 	EXP 	digit: text = '9'
+262.3348 	EXP 	digit: autoDraw = True
+263.3024 	DATA 	Keypress: space
+263.3345 	EXP 	digit: autoDraw = False
+263.3345 	EXP 	text_3: autoDraw = True
+263.4292 	EXP 	New trial (rep=11, index=0): None
+263.4322 	EXP 	text_3: autoDraw = False
+263.4322 	EXP 	text_4: autoDraw = True
+263.4322 	EXP 	result_box: autoDraw = True
+263.4322 	EXP 	text_5: autoDraw = True
+263.4322 	EXP 	text_4: autoDraw = False
+263.4322 	EXP 	result_box: autoDraw = False
+263.4322 	EXP 	text_5: autoDraw = False
+263.4322 	EXP 	text_2: autoDraw = True
+264.4266 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+264.4269 	EXP 	New trial (rep=0, index=0): None
+264.4328 	EXP 	text_2: autoDraw = False
+264.4328 	EXP 	text_2: autoDraw = False
+264.4328 	EXP 	digit: height = 0.5
+264.4328 	EXP 	digit: height = 0.5
+264.4328 	EXP 	digit: height = 0.5
+264.4328 	EXP 	digit: text = '6'
+264.4328 	EXP 	digit: autoDraw = True
+265.4320 	EXP 	digit: autoDraw = False
+265.4320 	EXP 	digit: autoDraw = False
+265.4320 	EXP 	text_3: autoDraw = True
+265.5302 	EXP 	New trial (rep=1, index=0): None
+265.5365 	EXP 	text_3: autoDraw = False
+265.5365 	EXP 	digit: height = 0.5
+265.5365 	EXP 	digit: height = 0.5
+265.5365 	EXP 	digit: height = 0.5
+265.5365 	EXP 	digit: text = '4'
+265.5365 	EXP 	digit: autoDraw = True
+266.5362 	EXP 	digit: autoDraw = False
+266.5362 	EXP 	text_3: autoDraw = True
+266.6334 	EXP 	New trial (rep=2, index=0): None
+266.6402 	EXP 	text_3: autoDraw = False
+266.6402 	EXP 	digit: height = 0.5
+266.6402 	EXP 	digit: height = 0.5
+266.6402 	EXP 	digit: height = 0.5
+266.6402 	EXP 	digit: text = '9'
+266.6402 	EXP 	digit: autoDraw = True
+267.6401 	EXP 	digit: autoDraw = False
+267.6401 	EXP 	text_3: autoDraw = True
+267.7384 	EXP 	text_3: autoDraw = False
+267.7384 	EXP 	text_4: autoDraw = True
+267.7384 	EXP 	result_box: autoDraw = True
+267.7384 	EXP 	text_5: autoDraw = True
+268.6285 	DATA 	Keypress: 0
+268.9489 	DATA 	Keypress: backspace
+269.4693 	DATA 	Keypress: 9
+270.2121 	DATA 	Keypress: 2
+270.4418 	DATA 	Keypress: 5
+270.6225 	DATA 	Keypress: 3
+271.0523 	DATA 	Keypress: 5
+271.1912 	DATA 	Keypress: 3
+271.9677 	EXP 	New trial (rep=12, index=0): None
+271.9688 	DATA 	Keypress: space
+271.9732 	EXP 	text_4: autoDraw = False
+271.9732 	EXP 	result_box: autoDraw = False
+271.9732 	EXP 	text_5: autoDraw = False
+271.9732 	EXP 	text_2: autoDraw = True
+272.9672 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+272.9675 	EXP 	New trial (rep=0, index=0): None
+272.9733 	EXP 	text_2: autoDraw = False
+272.9733 	EXP 	text_2: autoDraw = False
+272.9733 	EXP 	digit: height = 0.5
+272.9733 	EXP 	digit: height = 0.5
+272.9733 	EXP 	digit: height = 0.5
+272.9733 	EXP 	digit: text = '0'
+272.9733 	EXP 	digit: autoDraw = True
+273.9733 	EXP 	digit: autoDraw = False
+273.9733 	EXP 	digit: autoDraw = False
+273.9733 	EXP 	text_3: autoDraw = True
+274.0712 	EXP 	New trial (rep=1, index=0): None
+274.0776 	EXP 	text_3: autoDraw = False
+274.0776 	EXP 	digit: height = 0.5
+274.0776 	EXP 	digit: height = 0.5
+274.0776 	EXP 	digit: height = 0.5
+274.0776 	EXP 	digit: text = '7'
+274.0776 	EXP 	digit: autoDraw = True
+275.0776 	EXP 	digit: autoDraw = False
+275.0776 	EXP 	text_3: autoDraw = True
+275.1685 	EXP 	New trial (rep=2, index=0): None
+275.1748 	EXP 	text_3: autoDraw = False
+275.1748 	EXP 	digit: height = 0.5
+275.1748 	EXP 	digit: height = 0.5
+275.1748 	EXP 	digit: height = 0.5
+275.1748 	EXP 	digit: text = '2'
+275.1748 	EXP 	digit: autoDraw = True
+276.1747 	EXP 	digit: autoDraw = False
+276.1747 	EXP 	text_3: autoDraw = True
+276.2811 	EXP 	text_3: autoDraw = False
+276.2811 	EXP 	text_4: autoDraw = True
+276.2811 	EXP 	result_box: autoDraw = True
+276.2811 	EXP 	text_5: autoDraw = True
+279.1085 	DATA 	Keypress: 9
+279.4476 	DATA 	Keypress: 7
+279.8921 	DATA 	Keypress: 2
+280.0179 	DATA 	Keypress: 3
+280.2727 	EXP 	New trial (rep=13, index=0): None
+280.2737 	DATA 	Keypress: space
+280.2788 	EXP 	text_4: autoDraw = False
+280.2788 	EXP 	result_box: autoDraw = False
+280.2788 	EXP 	text_5: autoDraw = False
+280.2788 	EXP 	text_2: autoDraw = True
+281.2738 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+281.2741 	EXP 	New trial (rep=0, index=0): None
+281.2786 	EXP 	text_2: autoDraw = False
+281.2786 	EXP 	text_2: autoDraw = False
+281.2786 	EXP 	digit: text = '2'
+281.2786 	EXP 	digit: autoDraw = True
+282.2784 	EXP 	digit: autoDraw = False
+282.2784 	EXP 	digit: autoDraw = False
+282.2784 	EXP 	text_3: autoDraw = True
+282.3774 	EXP 	New trial (rep=1, index=0): None
+282.3845 	EXP 	text_3: autoDraw = False
+282.3845 	EXP 	digit: height = 0.5
+282.3845 	EXP 	digit: height = 0.5
+282.3845 	EXP 	digit: height = 0.5
+282.3845 	EXP 	digit: text = '0'
+282.3845 	EXP 	digit: autoDraw = True
+283.3830 	EXP 	digit: autoDraw = False
+283.3830 	EXP 	text_3: autoDraw = True
+283.4731 	EXP 	New trial (rep=2, index=0): None
+283.4814 	EXP 	text_3: autoDraw = False
+283.4814 	EXP 	digit: height = 0.5
+283.4814 	EXP 	digit: height = 0.5
+283.4814 	EXP 	digit: height = 0.5
+283.4814 	EXP 	digit: text = '6'
+283.4814 	EXP 	digit: autoDraw = True
+284.4802 	EXP 	digit: autoDraw = False
+284.4802 	EXP 	text_3: autoDraw = True
+284.5887 	EXP 	text_3: autoDraw = False
+284.5887 	EXP 	text_4: autoDraw = True
+284.5887 	EXP 	result_box: autoDraw = True
+284.5887 	EXP 	text_5: autoDraw = True
+287.4479 	DATA 	Keypress: 3
+287.5382 	DATA 	Keypress: 2
+288.1346 	DATA 	Keypress: 0
+288.3863 	DATA 	Keypress: 6
+288.6085 	DATA 	Keypress: space
+288.6127 	EXP 	New trial (rep=14, index=0): None
+288.6184 	EXP 	text_4: autoDraw = False
+288.6184 	EXP 	result_box: autoDraw = False
+288.6184 	EXP 	text_5: autoDraw = False
+288.6184 	EXP 	text_2: autoDraw = True
+289.6129 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+289.6131 	EXP 	New trial (rep=0, index=0): None
+289.6190 	EXP 	text_2: autoDraw = False
+289.6190 	EXP 	text_2: autoDraw = False
+289.6190 	EXP 	digit: height = 0.5
+289.6190 	EXP 	digit: height = 0.5
+289.6190 	EXP 	digit: height = 0.5
+289.6190 	EXP 	digit: text = '8'
+289.6190 	EXP 	digit: autoDraw = True
+290.6189 	EXP 	digit: autoDraw = False
+290.6189 	EXP 	digit: autoDraw = False
+290.6189 	EXP 	text_3: autoDraw = True
+290.7176 	EXP 	New trial (rep=1, index=0): None
+290.7257 	EXP 	text_3: autoDraw = False
+290.7257 	EXP 	digit: height = 0.5
+290.7257 	EXP 	digit: height = 0.5
+290.7257 	EXP 	digit: height = 0.5
+290.7257 	EXP 	digit: text = '3'
+290.7257 	EXP 	digit: autoDraw = True
+291.7230 	EXP 	digit: autoDraw = False
+291.7230 	EXP 	text_3: autoDraw = True
+291.8142 	EXP 	New trial (rep=2, index=0): None
+291.8221 	EXP 	text_3: autoDraw = False
+291.8221 	EXP 	digit: height = 0.5
+291.8221 	EXP 	digit: height = 0.5
+291.8221 	EXP 	digit: height = 0.5
+291.8221 	EXP 	digit: text = '6'
+291.8221 	EXP 	digit: autoDraw = True
+292.8196 	EXP 	digit: autoDraw = False
+292.8196 	EXP 	text_3: autoDraw = True
+292.9256 	EXP 	text_3: autoDraw = False
+292.9256 	EXP 	text_4: autoDraw = True
+292.9256 	EXP 	result_box: autoDraw = True
+292.9256 	EXP 	text_5: autoDraw = True
+296.4201 	DATA 	Keypress: 3
+296.5172 	DATA 	Keypress: 2
+297.0448 	DATA 	Keypress: 8
+297.5722 	DATA 	Keypress: 6
+297.7733 	DATA 	Keypress: space
+297.7849 	EXP 	text_4: autoDraw = False
+297.7849 	EXP 	result_box: autoDraw = False
+297.7849 	EXP 	text_5: autoDraw = False
+297.7849 	EXP 	text_6: autoDraw = True
+298.8979 	EXP 	New trial (rep=2, index=0): None
+298.8984 	EXP 	Created sequence: sequential, trialTypes=1, nReps=15, seed=None
+298.8986 	EXP 	New trial (rep=0, index=0): None
+298.9006 	DATA 	Keypress: space
+298.9040 	EXP 	text_6: autoDraw = False
+298.9040 	EXP 	text_2: autoDraw = True
+299.8983 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+299.8986 	EXP 	New trial (rep=0, index=0): None
+299.9031 	EXP 	text_2: autoDraw = False
+299.9031 	EXP 	text_2: autoDraw = False
+299.9031 	EXP 	digit: text = '6'
+299.9031 	EXP 	digit: autoDraw = True
+300.9033 	EXP 	digit: autoDraw = False
+300.9033 	EXP 	digit: autoDraw = False
+300.9033 	EXP 	text_3: autoDraw = True
+301.0012 	EXP 	New trial (rep=1, index=0): None
+301.0082 	EXP 	text_3: autoDraw = False
+301.0082 	EXP 	digit: height = 0.5
+301.0082 	EXP 	digit: height = 0.5
+301.0082 	EXP 	digit: height = 0.5
+301.0082 	EXP 	digit: text = '0'
+301.0082 	EXP 	digit: autoDraw = True
+302.0074 	EXP 	digit: autoDraw = False
+302.0074 	EXP 	text_3: autoDraw = True
+302.1048 	EXP 	New trial (rep=2, index=0): None
+302.1114 	EXP 	text_3: autoDraw = False
+302.1114 	EXP 	digit: height = 0.5
+302.1114 	EXP 	digit: height = 0.5
+302.1114 	EXP 	digit: height = 0.5
+302.1114 	EXP 	digit: text = '2'
+302.1114 	EXP 	digit: autoDraw = True
+303.1110 	EXP 	digit: autoDraw = False
+303.1110 	EXP 	text_3: autoDraw = True
+303.2024 	EXP 	New trial (rep=3, index=0): None
+303.2096 	EXP 	text_3: autoDraw = False
+303.2096 	EXP 	digit: height = 0.5
+303.2096 	EXP 	digit: height = 0.5
+303.2096 	EXP 	digit: height = 0.5
+303.2096 	EXP 	digit: text = '8'
+303.2096 	EXP 	digit: autoDraw = True
+304.2088 	EXP 	digit: autoDraw = False
+304.2088 	EXP 	text_3: autoDraw = True
+304.2993 	EXP 	New trial (rep=4, index=0): None
+304.3061 	EXP 	text_3: autoDraw = False
+304.3061 	EXP 	digit: height = 0.5
+304.3061 	EXP 	digit: height = 0.5
+304.3061 	EXP 	digit: height = 0.5
+304.3061 	EXP 	digit: text = '5'
+304.3061 	EXP 	digit: autoDraw = True
+305.3062 	EXP 	digit: autoDraw = False
+305.3062 	EXP 	text_3: autoDraw = True
+305.4034 	EXP 	New trial (rep=5, index=0): None
+305.4103 	EXP 	text_3: autoDraw = False
+305.4103 	EXP 	digit: height = 0.5
+305.4103 	EXP 	digit: height = 0.5
+305.4103 	EXP 	digit: height = 0.5
+305.4103 	EXP 	digit: text = '9'
+305.4103 	EXP 	digit: autoDraw = True
+306.4100 	EXP 	digit: autoDraw = False
+306.4100 	EXP 	text_3: autoDraw = True
+306.5017 	EXP 	New trial (rep=6, index=0): None
+306.5073 	EXP 	text_3: autoDraw = False
+306.5073 	EXP 	digit: height = 0.5
+306.5073 	EXP 	digit: height = 0.5
+306.5073 	EXP 	digit: height = 0.5
+306.5073 	EXP 	digit: text = '3'
+306.5073 	EXP 	digit: autoDraw = True
+307.5073 	EXP 	digit: autoDraw = False
+307.5073 	EXP 	text_3: autoDraw = True
+307.5982 	EXP 	New trial (rep=7, index=0): None
+307.6046 	EXP 	text_3: autoDraw = False
+307.6046 	EXP 	digit: height = 0.5
+307.6046 	EXP 	digit: height = 0.5
+307.6046 	EXP 	digit: height = 0.5
+307.6046 	EXP 	digit: text = '1'
+307.6046 	EXP 	digit: autoDraw = True
+308.0178 	DATA 	Keypress: 2
+308.1759 	DATA 	Keypress: 5
+308.6041 	EXP 	digit: autoDraw = False
+308.6041 	EXP 	digit: autoDraw = False
+308.6041 	EXP 	text_3: autoDraw = True
+308.7124 	EXP 	text_3: autoDraw = False
+308.7124 	EXP 	text_4: autoDraw = True
+308.7124 	EXP 	result_box: autoDraw = True
+308.7124 	EXP 	text_5: autoDraw = True
+309.0590 	DATA 	Keypress: 2
+309.1418 	DATA 	Keypress: 5
+309.9404 	DATA 	Keypress: 9
+310.1417 	DATA 	Keypress: 8
+310.9474 	DATA 	Keypress: 3
+311.1837 	DATA 	Keypress: 1
+311.6397 	EXP 	New trial (rep=1, index=0): None
+311.6405 	DATA 	Keypress: space
+311.6456 	EXP 	text_4: autoDraw = False
+311.6456 	EXP 	result_box: autoDraw = False
+311.6456 	EXP 	text_5: autoDraw = False
+311.6456 	EXP 	text_2: autoDraw = True
+312.6402 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+312.6406 	EXP 	New trial (rep=0, index=0): None
+312.6471 	EXP 	text_2: autoDraw = False
+312.6471 	EXP 	text_2: autoDraw = False
+312.6471 	EXP 	digit: height = 0.5
+312.6471 	EXP 	digit: height = 0.5
+312.6471 	EXP 	digit: height = 0.5
+312.6471 	EXP 	digit: text = '3'
+312.6471 	EXP 	digit: autoDraw = True
+313.6527 	EXP 	digit: autoDraw = False
+313.6527 	EXP 	text_3: autoDraw = True
+313.7437 	EXP 	New trial (rep=1, index=0): None
+313.7502 	EXP 	text_3: autoDraw = False
+313.7502 	EXP 	digit: height = 0.5
+313.7502 	EXP 	digit: height = 0.5
+313.7502 	EXP 	digit: height = 0.5
+313.7502 	EXP 	digit: text = '0'
+313.7502 	EXP 	digit: autoDraw = True
+314.7496 	EXP 	digit: autoDraw = False
+314.7496 	EXP 	text_3: autoDraw = True
+314.8410 	EXP 	New trial (rep=2, index=0): None
+314.8470 	EXP 	text_3: autoDraw = False
+314.8470 	EXP 	digit: height = 0.5
+314.8470 	EXP 	digit: height = 0.5
+314.8470 	EXP 	digit: height = 0.5
+314.8470 	EXP 	digit: text = '8'
+314.8470 	EXP 	digit: autoDraw = True
+315.8467 	EXP 	digit: autoDraw = False
+315.8467 	EXP 	text_3: autoDraw = True
+315.9451 	EXP 	New trial (rep=3, index=0): None
+315.9515 	EXP 	text_3: autoDraw = False
+315.9515 	EXP 	digit: height = 0.5
+315.9515 	EXP 	digit: height = 0.5
+315.9515 	EXP 	digit: height = 0.5
+315.9515 	EXP 	digit: text = '9'
+315.9515 	EXP 	digit: autoDraw = True
+316.9514 	EXP 	digit: autoDraw = False
+316.9514 	EXP 	text_3: autoDraw = True
+317.0424 	EXP 	New trial (rep=4, index=0): None
+317.0487 	EXP 	text_3: autoDraw = False
+317.0487 	EXP 	digit: height = 0.5
+317.0487 	EXP 	digit: height = 0.5
+317.0487 	EXP 	digit: height = 0.5
+317.0487 	EXP 	digit: text = '7'
+317.0487 	EXP 	digit: autoDraw = True
+318.0489 	EXP 	digit: autoDraw = False
+318.0489 	EXP 	text_3: autoDraw = True
+318.1460 	EXP 	New trial (rep=5, index=0): None
+318.1529 	EXP 	text_3: autoDraw = False
+318.1529 	EXP 	digit: height = 0.5
+318.1529 	EXP 	digit: height = 0.5
+318.1529 	EXP 	digit: height = 0.5
+318.1529 	EXP 	digit: text = '6'
+318.1529 	EXP 	digit: autoDraw = True
+319.1530 	EXP 	digit: autoDraw = False
+319.1530 	EXP 	text_3: autoDraw = True
+319.2435 	EXP 	New trial (rep=6, index=0): None
+319.2502 	EXP 	text_3: autoDraw = False
+319.2502 	EXP 	digit: height = 0.5
+319.2502 	EXP 	digit: height = 0.5
+319.2502 	EXP 	digit: height = 0.5
+319.2502 	EXP 	digit: text = '1'
+319.2502 	EXP 	digit: autoDraw = True
+320.2496 	EXP 	digit: autoDraw = False
+320.2496 	EXP 	text_3: autoDraw = True
+320.3410 	EXP 	New trial (rep=7, index=0): None
+320.3474 	EXP 	text_3: autoDraw = False
+320.3474 	EXP 	digit: height = 0.5
+320.3474 	EXP 	digit: height = 0.5
+320.3474 	EXP 	digit: height = 0.5
+320.3474 	EXP 	digit: text = '5'
+320.3474 	EXP 	digit: autoDraw = True
+320.6621 	DATA 	Keypress: 3
+320.8780 	DATA 	Keypress: 3
+321.1431 	DATA 	Keypress: 1
+321.3471 	EXP 	digit: autoDraw = False
+321.3471 	EXP 	text_3: autoDraw = True
+321.4514 	EXP 	text_3: autoDraw = False
+321.4514 	EXP 	text_4: autoDraw = True
+321.4514 	EXP 	result_box: autoDraw = True
+321.4514 	EXP 	text_5: autoDraw = True
+321.6760 	DATA 	Keypress: 3
+321.9398 	DATA 	Keypress: 3
+322.0717 	DATA 	Keypress: 1
+322.9604 	DATA 	Keypress: 5
+323.1535 	EXP 	New trial (rep=2, index=0): None
+323.1544 	DATA 	Keypress: space
+323.1594 	EXP 	text_4: autoDraw = False
+323.1594 	EXP 	result_box: autoDraw = False
+323.1594 	EXP 	text_5: autoDraw = False
+323.1594 	EXP 	text_2: autoDraw = True
+324.1536 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+324.1539 	EXP 	New trial (rep=0, index=0): None
+324.1595 	EXP 	text_2: autoDraw = False
+324.1595 	EXP 	text_2: autoDraw = False
+324.1595 	EXP 	digit: height = 0.5
+324.1595 	EXP 	digit: height = 0.5
+324.1595 	EXP 	digit: height = 0.5
+324.1595 	EXP 	digit: text = '7'
+324.1595 	EXP 	digit: autoDraw = True
+325.1594 	EXP 	digit: autoDraw = False
+325.1594 	EXP 	digit: autoDraw = False
+325.1594 	EXP 	text_3: autoDraw = True
+325.2579 	EXP 	New trial (rep=1, index=0): None
+325.2644 	EXP 	text_3: autoDraw = False
+325.2644 	EXP 	digit: height = 0.5
+325.2644 	EXP 	digit: height = 0.5
+325.2644 	EXP 	digit: height = 0.5
+325.2644 	EXP 	digit: text = '9'
+325.2644 	EXP 	digit: autoDraw = True
+326.2636 	EXP 	digit: autoDraw = False
+326.2636 	EXP 	text_3: autoDraw = True
+326.3541 	EXP 	New trial (rep=2, index=0): None
+326.3606 	EXP 	text_3: autoDraw = False
+326.3606 	EXP 	digit: height = 0.5
+326.3606 	EXP 	digit: height = 0.5
+326.3606 	EXP 	digit: height = 0.5
+326.3606 	EXP 	digit: text = '4'
+326.3606 	EXP 	digit: autoDraw = True
+327.3611 	EXP 	digit: autoDraw = False
+327.3611 	EXP 	text_3: autoDraw = True
+327.4581 	EXP 	New trial (rep=3, index=0): None
+327.4651 	EXP 	text_3: autoDraw = False
+327.4651 	EXP 	digit: height = 0.5
+327.4651 	EXP 	digit: height = 0.5
+327.4651 	EXP 	digit: height = 0.5
+327.4651 	EXP 	digit: text = '8'
+327.4651 	EXP 	digit: autoDraw = True
+328.4650 	EXP 	digit: autoDraw = False
+328.4650 	EXP 	text_3: autoDraw = True
+328.5558 	EXP 	New trial (rep=4, index=0): None
+328.5623 	EXP 	text_3: autoDraw = False
+328.5623 	EXP 	digit: height = 0.5
+328.5623 	EXP 	digit: height = 0.5
+328.5623 	EXP 	digit: height = 0.5
+328.5623 	EXP 	digit: text = '2'
+328.5623 	EXP 	digit: autoDraw = True
+329.5625 	EXP 	digit: autoDraw = False
+329.5625 	EXP 	text_3: autoDraw = True
+329.6597 	EXP 	New trial (rep=5, index=0): None
+329.6663 	EXP 	text_3: autoDraw = False
+329.6663 	EXP 	digit: height = 0.5
+329.6663 	EXP 	digit: height = 0.5
+329.6663 	EXP 	digit: height = 0.5
+329.6663 	EXP 	digit: text = '3'
+329.6663 	EXP 	digit: autoDraw = True
+330.6668 	EXP 	digit: autoDraw = False
+330.6668 	EXP 	text_3: autoDraw = True
+330.7571 	EXP 	New trial (rep=6, index=0): None
+330.7634 	EXP 	text_3: autoDraw = False
+330.7634 	EXP 	digit: height = 0.5
+330.7634 	EXP 	digit: height = 0.5
+330.7634 	EXP 	digit: height = 0.5
+330.7634 	EXP 	digit: text = '5'
+330.7634 	EXP 	digit: autoDraw = True
+331.7634 	EXP 	digit: autoDraw = False
+331.7634 	EXP 	text_3: autoDraw = True
+331.8604 	EXP 	New trial (rep=7, index=0): None
+331.8671 	EXP 	text_3: autoDraw = False
+331.8671 	EXP 	digit: height = 0.5
+331.8671 	EXP 	digit: height = 0.5
+331.8671 	EXP 	digit: height = 0.5
+331.8671 	EXP 	digit: text = '0'
+331.8671 	EXP 	digit: autoDraw = True
+332.8612 	EXP 	digit: autoDraw = False
+332.8612 	EXP 	text_3: autoDraw = True
+332.9649 	EXP 	text_3: autoDraw = False
+332.9649 	EXP 	text_4: autoDraw = True
+332.9649 	EXP 	result_box: autoDraw = True
+332.9649 	EXP 	text_5: autoDraw = True
+333.3704 	DATA 	Keypress: 2
+333.5359 	DATA 	Keypress: 3
+334.0644 	DATA 	Keypress: 5
+334.6060 	DATA 	Keypress: 9
+334.8080 	DATA 	Keypress: 0
+334.9957 	DATA 	Keypress: space
+335.0001 	EXP 	New trial (rep=3, index=0): None
+335.0063 	EXP 	text_4: autoDraw = False
+335.0063 	EXP 	result_box: autoDraw = False
+335.0063 	EXP 	text_5: autoDraw = False
+335.0063 	EXP 	text_2: autoDraw = True
+336.0002 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+336.0004 	EXP 	New trial (rep=0, index=0): None
+336.0065 	EXP 	text_2: autoDraw = False
+336.0065 	EXP 	text_2: autoDraw = False
+336.0065 	EXP 	digit: height = 0.5
+336.0065 	EXP 	digit: height = 0.5
+336.0065 	EXP 	digit: height = 0.5
+336.0065 	EXP 	digit: text = '5'
+336.0065 	EXP 	digit: autoDraw = True
+336.9592 	DATA 	Keypress: space
+337.0062 	EXP 	digit: autoDraw = False
+337.0062 	EXP 	digit: autoDraw = False
+337.0062 	EXP 	text_3: autoDraw = True
+337.1040 	EXP 	New trial (rep=1, index=0): None
+337.1107 	EXP 	text_3: autoDraw = False
+337.1107 	EXP 	digit: height = 0.5
+337.1107 	EXP 	digit: height = 0.5
+337.1107 	EXP 	digit: height = 0.5
+337.1107 	EXP 	digit: text = '7'
+337.1107 	EXP 	digit: autoDraw = True
+338.1107 	EXP 	digit: autoDraw = False
+338.1107 	EXP 	text_3: autoDraw = True
+338.2013 	EXP 	New trial (rep=2, index=0): None
+338.2080 	EXP 	text_3: autoDraw = False
+338.2080 	EXP 	digit: height = 0.5
+338.2080 	EXP 	digit: height = 0.5
+338.2080 	EXP 	digit: height = 0.5
+338.2080 	EXP 	digit: text = '4'
+338.2080 	EXP 	digit: autoDraw = True
+339.2074 	EXP 	digit: autoDraw = False
+339.2074 	EXP 	text_3: autoDraw = True
+339.3055 	EXP 	New trial (rep=3, index=0): None
+339.3121 	EXP 	text_3: autoDraw = False
+339.3121 	EXP 	digit: height = 0.5
+339.3121 	EXP 	digit: height = 0.5
+339.3121 	EXP 	digit: height = 0.5
+339.3121 	EXP 	digit: text = '2'
+339.3121 	EXP 	digit: autoDraw = True
+340.3118 	EXP 	digit: autoDraw = False
+340.3118 	EXP 	text_3: autoDraw = True
+340.4025 	EXP 	New trial (rep=4, index=0): None
+340.4092 	EXP 	text_3: autoDraw = False
+340.4092 	EXP 	digit: height = 0.5
+340.4092 	EXP 	digit: height = 0.5
+340.4092 	EXP 	digit: height = 0.5
+340.4092 	EXP 	digit: text = '1'
+340.4092 	EXP 	digit: autoDraw = True
+341.4091 	EXP 	digit: autoDraw = False
+341.4091 	EXP 	text_3: autoDraw = True
+341.5070 	EXP 	New trial (rep=5, index=0): None
+341.5129 	EXP 	text_3: autoDraw = False
+341.5129 	EXP 	digit: height = 0.5
+341.5129 	EXP 	digit: height = 0.5
+341.5129 	EXP 	digit: height = 0.5
+341.5129 	EXP 	digit: text = '3'
+341.5129 	EXP 	digit: autoDraw = True
+342.5128 	EXP 	digit: autoDraw = False
+342.5128 	EXP 	text_3: autoDraw = True
+342.6033 	EXP 	New trial (rep=6, index=0): None
+342.6101 	EXP 	text_3: autoDraw = False
+342.6101 	EXP 	digit: height = 0.5
+342.6101 	EXP 	digit: height = 0.5
+342.6101 	EXP 	digit: height = 0.5
+342.6101 	EXP 	digit: text = '8'
+342.6101 	EXP 	digit: autoDraw = True
+343.6109 	EXP 	digit: autoDraw = False
+343.6109 	EXP 	text_3: autoDraw = True
+343.7017 	EXP 	New trial (rep=7, index=0): None
+343.7096 	EXP 	text_3: autoDraw = False
+343.7096 	EXP 	digit: height = 0.5
+343.7096 	EXP 	digit: height = 0.5
+343.7096 	EXP 	digit: height = 0.5
+343.7096 	EXP 	digit: text = '6'
+343.7096 	EXP 	digit: autoDraw = True
+344.7078 	EXP 	digit: autoDraw = False
+344.7078 	EXP 	text_3: autoDraw = True
+344.8080 	EXP 	New trial (rep=4, index=0): None
+344.8118 	EXP 	text_3: autoDraw = False
+344.8118 	EXP 	text_4: autoDraw = True
+344.8118 	EXP 	result_box: autoDraw = True
+344.8118 	EXP 	text_5: autoDraw = True
+344.8118 	EXP 	text_4: autoDraw = False
+344.8118 	EXP 	result_box: autoDraw = False
+344.8118 	EXP 	text_5: autoDraw = False
+344.8118 	EXP 	text_2: autoDraw = True
+345.8058 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+345.8059 	EXP 	New trial (rep=0, index=0): None
+345.8119 	EXP 	text_2: autoDraw = False
+345.8119 	EXP 	text_2: autoDraw = False
+345.8119 	EXP 	digit: height = 0.5
+345.8119 	EXP 	digit: height = 0.5
+345.8119 	EXP 	digit: height = 0.5
+345.8119 	EXP 	digit: text = '7'
+345.8119 	EXP 	digit: autoDraw = True
+346.8115 	EXP 	digit: autoDraw = False
+346.8115 	EXP 	digit: autoDraw = False
+346.8115 	EXP 	text_3: autoDraw = True
+346.9094 	EXP 	New trial (rep=1, index=0): None
+346.9161 	EXP 	text_3: autoDraw = False
+346.9161 	EXP 	digit: height = 0.5
+346.9161 	EXP 	digit: height = 0.5
+346.9161 	EXP 	digit: height = 0.5
+346.9161 	EXP 	digit: text = '4'
+346.9161 	EXP 	digit: autoDraw = True
+347.9160 	EXP 	digit: autoDraw = False
+347.9160 	EXP 	text_3: autoDraw = True
+348.0136 	EXP 	New trial (rep=2, index=0): None
+348.0203 	EXP 	text_3: autoDraw = False
+348.0203 	EXP 	digit: height = 0.5
+348.0203 	EXP 	digit: height = 0.5
+348.0203 	EXP 	digit: height = 0.5
+348.0203 	EXP 	digit: text = '0'
+348.0203 	EXP 	digit: autoDraw = True
+348.5988 	DATA 	Keypress: space
+349.0200 	EXP 	digit: autoDraw = False
+349.0200 	EXP 	text_3: autoDraw = True
+349.1107 	EXP 	New trial (rep=3, index=0): None
+349.1173 	EXP 	text_3: autoDraw = False
+349.1173 	EXP 	digit: height = 0.5
+349.1173 	EXP 	digit: height = 0.5
+349.1173 	EXP 	digit: height = 0.5
+349.1173 	EXP 	digit: text = '9'
+349.1173 	EXP 	digit: autoDraw = True
+349.3685 	DATA 	Keypress: 2
+350.1173 	EXP 	digit: autoDraw = False
+350.1173 	EXP 	text_3: autoDraw = True
+350.2147 	EXP 	New trial (rep=4, index=0): None
+350.2214 	EXP 	text_3: autoDraw = False
+350.2214 	EXP 	digit: height = 0.5
+350.2214 	EXP 	digit: height = 0.5
+350.2214 	EXP 	digit: height = 0.5
+350.2214 	EXP 	digit: text = '1'
+350.2214 	EXP 	digit: autoDraw = True
+350.5095 	DATA 	Keypress: 2
+351.2149 	EXP 	digit: autoDraw = False
+351.2149 	EXP 	text_3: autoDraw = True
+351.3124 	EXP 	New trial (rep=5, index=0): None
+351.3196 	EXP 	text_3: autoDraw = False
+351.3196 	EXP 	digit: height = 0.5
+351.3196 	EXP 	digit: height = 0.5
+351.3196 	EXP 	digit: height = 0.5
+351.3196 	EXP 	digit: text = '6'
+351.3196 	EXP 	digit: autoDraw = True
+352.3182 	EXP 	digit: autoDraw = False
+352.3182 	EXP 	text_3: autoDraw = True
+352.4093 	EXP 	New trial (rep=6, index=0): None
+352.4158 	EXP 	text_3: autoDraw = False
+352.4158 	EXP 	digit: height = 0.5
+352.4158 	EXP 	digit: height = 0.5
+352.4158 	EXP 	digit: height = 0.5
+352.4158 	EXP 	digit: text = '2'
+352.4158 	EXP 	digit: autoDraw = True
+353.4158 	EXP 	digit: autoDraw = False
+353.4158 	EXP 	text_3: autoDraw = True
+353.5133 	EXP 	New trial (rep=7, index=0): None
+353.5200 	EXP 	text_3: autoDraw = False
+353.5200 	EXP 	digit: height = 0.5
+353.5200 	EXP 	digit: height = 0.5
+353.5200 	EXP 	digit: height = 0.5
+353.5200 	EXP 	digit: text = '3'
+353.5200 	EXP 	digit: autoDraw = True
+354.5197 	EXP 	digit: autoDraw = False
+354.5197 	EXP 	text_3: autoDraw = True
+354.6142 	EXP 	New trial (rep=5, index=0): None
+354.6169 	EXP 	text_3: autoDraw = False
+354.6169 	EXP 	text_4: autoDraw = True
+354.6169 	EXP 	result_box: autoDraw = True
+354.6169 	EXP 	text_5: autoDraw = True
+354.6169 	EXP 	text_4: autoDraw = False
+354.6169 	EXP 	result_box: autoDraw = False
+354.6169 	EXP 	text_5: autoDraw = False
+354.6169 	EXP 	text_2: autoDraw = True
+355.6115 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+355.6118 	EXP 	New trial (rep=0, index=0): None
+355.6173 	EXP 	text_2: autoDraw = False
+355.6173 	EXP 	text_2: autoDraw = False
+355.6173 	EXP 	digit: height = 0.5
+355.6173 	EXP 	digit: height = 0.5
+355.6173 	EXP 	digit: height = 0.5
+355.6173 	EXP 	digit: text = '5'
+355.6173 	EXP 	digit: autoDraw = True
+356.6174 	EXP 	digit: autoDraw = False
+356.6174 	EXP 	digit: autoDraw = False
+356.6174 	EXP 	text_3: autoDraw = True
+356.7146 	EXP 	New trial (rep=1, index=0): None
+356.7213 	EXP 	text_3: autoDraw = False
+356.7213 	EXP 	digit: height = 0.5
+356.7213 	EXP 	digit: height = 0.5
+356.7213 	EXP 	digit: height = 0.5
+356.7213 	EXP 	digit: text = '0'
+356.7213 	EXP 	digit: autoDraw = True
+357.7214 	EXP 	digit: autoDraw = False
+357.7214 	EXP 	text_3: autoDraw = True
+357.8187 	EXP 	New trial (rep=2, index=0): None
+357.8254 	EXP 	text_3: autoDraw = False
+357.8254 	EXP 	digit: height = 0.5
+357.8254 	EXP 	digit: height = 0.5
+357.8254 	EXP 	digit: height = 0.5
+357.8254 	EXP 	digit: text = '6'
+357.8254 	EXP 	digit: autoDraw = True
+358.8249 	EXP 	digit: autoDraw = False
+358.8249 	EXP 	text_3: autoDraw = True
+358.9158 	EXP 	New trial (rep=3, index=0): None
+358.9226 	EXP 	text_3: autoDraw = False
+358.9226 	EXP 	digit: height = 0.5
+358.9226 	EXP 	digit: height = 0.5
+358.9226 	EXP 	digit: height = 0.5
+358.9226 	EXP 	digit: text = '2'
+358.9226 	EXP 	digit: autoDraw = True
+359.9224 	EXP 	digit: autoDraw = False
+359.9224 	EXP 	text_3: autoDraw = True
+360.0200 	EXP 	New trial (rep=4, index=0): None
+360.0266 	EXP 	text_3: autoDraw = False
+360.0266 	EXP 	digit: height = 0.5
+360.0266 	EXP 	digit: height = 0.5
+360.0266 	EXP 	digit: height = 0.5
+360.0266 	EXP 	digit: text = '1'
+360.0266 	EXP 	digit: autoDraw = True
+361.0268 	EXP 	digit: autoDraw = False
+361.0268 	EXP 	text_3: autoDraw = True
+361.1174 	EXP 	New trial (rep=5, index=0): None
+361.1258 	EXP 	text_3: autoDraw = False
+361.1258 	EXP 	digit: height = 0.5
+361.1258 	EXP 	digit: height = 0.5
+361.1258 	EXP 	digit: height = 0.5
+361.1258 	EXP 	digit: text = '7'
+361.1258 	EXP 	digit: autoDraw = True
+362.1241 	EXP 	digit: autoDraw = False
+362.1241 	EXP 	text_3: autoDraw = True
+362.2217 	EXP 	New trial (rep=6, index=0): None
+362.2284 	EXP 	text_3: autoDraw = False
+362.2284 	EXP 	digit: height = 0.5
+362.2284 	EXP 	digit: height = 0.5
+362.2284 	EXP 	digit: height = 0.5
+362.2284 	EXP 	digit: text = '9'
+362.2284 	EXP 	digit: autoDraw = True
+363.2207 	EXP 	digit: autoDraw = False
+363.2207 	EXP 	text_3: autoDraw = True
+363.3192 	EXP 	New trial (rep=7, index=0): None
+363.3250 	EXP 	text_3: autoDraw = False
+363.3250 	EXP 	digit: height = 0.5
+363.3250 	EXP 	digit: height = 0.5
+363.3250 	EXP 	digit: height = 0.5
+363.3250 	EXP 	digit: text = '3'
+363.3250 	EXP 	digit: autoDraw = True
+364.3255 	EXP 	digit: autoDraw = False
+364.3255 	EXP 	text_3: autoDraw = True
+364.4226 	EXP 	text_3: autoDraw = False
+364.4226 	EXP 	text_4: autoDraw = True
+364.4226 	EXP 	result_box: autoDraw = True
+364.4226 	EXP 	text_5: autoDraw = True
+365.1687 	DATA 	Keypress: 2
+365.2859 	DATA 	Keypress: 3
+365.5292 	DATA 	Keypress: 4
+365.8406 	DATA 	Keypress: 7
+365.8478 	DATA 	Keypress: 6
+365.9878 	DATA 	Keypress: 5
+366.2302 	DATA 	Keypress: 6
+366.2584 	DATA 	Keypress: f7
+366.2655 	DATA 	Keypress: 7
+366.3204 	DATA 	Keypress: f8
+366.5503 	DATA 	Keypress: space
+366.5552 	EXP 	New trial (rep=6, index=0): None
+366.5614 	EXP 	text_4: autoDraw = False
+366.5614 	EXP 	result_box: autoDraw = False
+366.5614 	EXP 	text_5: autoDraw = False
+366.5614 	EXP 	text_2: autoDraw = True
+367.5565 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+367.5569 	EXP 	New trial (rep=0, index=0): None
+367.5651 	EXP 	text_2: autoDraw = False
+367.5651 	EXP 	text_2: autoDraw = False
+367.5651 	EXP 	digit: height = 0.5
+367.5651 	EXP 	digit: height = 0.5
+367.5651 	EXP 	digit: height = 0.5
+367.5651 	EXP 	digit: text = '1'
+367.5651 	EXP 	digit: autoDraw = True
+368.5679 	EXP 	digit: autoDraw = False
+368.5679 	EXP 	text_3: autoDraw = True
+368.6589 	EXP 	New trial (rep=1, index=0): None
+368.6650 	EXP 	text_3: autoDraw = False
+368.6650 	EXP 	digit: height = 0.5
+368.6650 	EXP 	digit: height = 0.5
+368.6650 	EXP 	digit: height = 0.5
+368.6650 	EXP 	digit: text = '7'
+368.6650 	EXP 	digit: autoDraw = True
+369.6650 	EXP 	digit: autoDraw = False
+369.6650 	EXP 	text_3: autoDraw = True
+369.7563 	EXP 	New trial (rep=2, index=0): None
+369.7625 	EXP 	text_3: autoDraw = False
+369.7625 	EXP 	digit: height = 0.5
+369.7625 	EXP 	digit: height = 0.5
+369.7625 	EXP 	digit: height = 0.5
+369.7625 	EXP 	digit: text = '9'
+369.7625 	EXP 	digit: autoDraw = True
+370.7628 	EXP 	digit: autoDraw = False
+370.7628 	EXP 	text_3: autoDraw = True
+370.8604 	EXP 	New trial (rep=3, index=0): None
+370.8670 	EXP 	text_3: autoDraw = False
+370.8670 	EXP 	digit: height = 0.5
+370.8670 	EXP 	digit: height = 0.5
+370.8670 	EXP 	digit: height = 0.5
+370.8670 	EXP 	digit: text = '5'
+370.8670 	EXP 	digit: autoDraw = True
+371.8670 	EXP 	digit: autoDraw = False
+371.8670 	EXP 	text_3: autoDraw = True
+371.9578 	EXP 	New trial (rep=4, index=0): None
+371.9641 	EXP 	text_3: autoDraw = False
+371.9641 	EXP 	digit: height = 0.5
+371.9641 	EXP 	digit: height = 0.5
+371.9641 	EXP 	digit: height = 0.5
+371.9641 	EXP 	digit: text = '6'
+371.9641 	EXP 	digit: autoDraw = True
+372.9639 	EXP 	digit: autoDraw = False
+372.9639 	EXP 	text_3: autoDraw = True
+373.0633 	EXP 	New trial (rep=5, index=0): None
+373.0744 	EXP 	text_3: autoDraw = False
+373.0744 	EXP 	digit: height = 0.5
+373.0744 	EXP 	digit: height = 0.5
+373.0744 	EXP 	digit: height = 0.5
+373.0744 	EXP 	digit: text = '0'
+373.0744 	EXP 	digit: autoDraw = True
+374.0684 	EXP 	digit: autoDraw = False
+374.0684 	EXP 	text_3: autoDraw = True
+374.1588 	EXP 	New trial (rep=6, index=0): None
+374.1656 	EXP 	text_3: autoDraw = False
+374.1656 	EXP 	digit: height = 0.5
+374.1656 	EXP 	digit: height = 0.5
+374.1656 	EXP 	digit: height = 0.5
+374.1656 	EXP 	digit: text = '4'
+374.1656 	EXP 	digit: autoDraw = True
+375.1655 	EXP 	digit: autoDraw = False
+375.1655 	EXP 	text_3: autoDraw = True
+375.2563 	EXP 	New trial (rep=7, index=0): None
+375.2627 	EXP 	text_3: autoDraw = False
+375.2627 	EXP 	digit: height = 0.5
+375.2627 	EXP 	digit: height = 0.5
+375.2627 	EXP 	digit: height = 0.5
+375.2627 	EXP 	digit: text = '2'
+375.2627 	EXP 	digit: autoDraw = True
+376.2626 	EXP 	digit: autoDraw = False
+376.2626 	EXP 	text_3: autoDraw = True
+376.3680 	EXP 	text_3: autoDraw = False
+376.3680 	EXP 	text_4: autoDraw = True
+376.3680 	EXP 	result_box: autoDraw = True
+376.3680 	EXP 	text_5: autoDraw = True
+377.9968 	DATA 	Keypress: 2
+378.1273 	DATA 	Keypress: 5
+378.3003 	DATA 	Keypress: 4
+378.4586 	DATA 	Keypress: 6
+378.6816 	DATA 	Keypress: 3
+379.6110 	EXP 	New trial (rep=7, index=0): None
+379.6122 	DATA 	Keypress: space
+379.6163 	EXP 	text_4: autoDraw = False
+379.6163 	EXP 	result_box: autoDraw = False
+379.6163 	EXP 	text_5: autoDraw = False
+379.6163 	EXP 	text_2: autoDraw = True
+380.6118 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+380.6125 	EXP 	New trial (rep=0, index=0): None
+380.6202 	EXP 	text_2: autoDraw = False
+380.6202 	EXP 	text_2: autoDraw = False
+380.6202 	EXP 	digit: height = 0.5
+380.6202 	EXP 	digit: height = 0.5
+380.6202 	EXP 	digit: height = 0.5
+380.6202 	EXP 	digit: text = '1'
+380.6202 	EXP 	digit: autoDraw = True
+381.6237 	EXP 	digit: autoDraw = False
+381.6237 	EXP 	text_3: autoDraw = True
+381.7137 	EXP 	New trial (rep=1, index=0): None
+381.7204 	EXP 	text_3: autoDraw = False
+381.7204 	EXP 	digit: height = 0.5
+381.7204 	EXP 	digit: height = 0.5
+381.7204 	EXP 	digit: height = 0.5
+381.7204 	EXP 	digit: text = '7'
+381.7204 	EXP 	digit: autoDraw = True
+382.7203 	EXP 	digit: autoDraw = False
+382.7203 	EXP 	text_3: autoDraw = True
+382.8180 	EXP 	New trial (rep=2, index=0): None
+382.8246 	EXP 	text_3: autoDraw = False
+382.8246 	EXP 	digit: height = 0.5
+382.8246 	EXP 	digit: height = 0.5
+382.8246 	EXP 	digit: height = 0.5
+382.8246 	EXP 	digit: text = '4'
+382.8246 	EXP 	digit: autoDraw = True
+383.8250 	EXP 	digit: autoDraw = False
+383.8250 	EXP 	text_3: autoDraw = True
+383.9155 	EXP 	New trial (rep=3, index=0): None
+383.9222 	EXP 	text_3: autoDraw = False
+383.9222 	EXP 	digit: height = 0.5
+383.9222 	EXP 	digit: height = 0.5
+383.9222 	EXP 	digit: height = 0.5
+383.9222 	EXP 	digit: text = '8'
+383.9222 	EXP 	digit: autoDraw = True
+384.9220 	EXP 	digit: autoDraw = False
+384.9220 	EXP 	text_3: autoDraw = True
+385.0129 	EXP 	New trial (rep=4, index=0): None
+385.0194 	EXP 	text_3: autoDraw = False
+385.0194 	EXP 	digit: height = 0.5
+385.0194 	EXP 	digit: height = 0.5
+385.0194 	EXP 	digit: height = 0.5
+385.0194 	EXP 	digit: text = '9'
+385.0194 	EXP 	digit: autoDraw = True
+386.0193 	EXP 	digit: autoDraw = False
+386.0193 	EXP 	text_3: autoDraw = True
+386.1166 	EXP 	New trial (rep=5, index=0): None
+386.1232 	EXP 	text_3: autoDraw = False
+386.1232 	EXP 	digit: height = 0.5
+386.1232 	EXP 	digit: height = 0.5
+386.1232 	EXP 	digit: height = 0.5
+386.1232 	EXP 	digit: text = '2'
+386.1232 	EXP 	digit: autoDraw = True
+387.1229 	EXP 	digit: autoDraw = False
+387.1229 	EXP 	text_3: autoDraw = True
+387.2142 	EXP 	New trial (rep=6, index=0): None
+387.2208 	EXP 	text_3: autoDraw = False
+387.2208 	EXP 	digit: height = 0.5
+387.2208 	EXP 	digit: height = 0.5
+387.2208 	EXP 	digit: height = 0.5
+387.2208 	EXP 	digit: text = '6'
+387.2208 	EXP 	digit: autoDraw = True
+388.2204 	EXP 	digit: autoDraw = False
+388.2204 	EXP 	text_3: autoDraw = True
+388.3114 	EXP 	New trial (rep=7, index=0): None
+388.3179 	EXP 	text_3: autoDraw = False
+388.3179 	EXP 	digit: height = 0.5
+388.3179 	EXP 	digit: height = 0.5
+388.3179 	EXP 	digit: height = 0.5
+388.3179 	EXP 	digit: text = '0'
+388.3179 	EXP 	digit: autoDraw = True
+389.3175 	EXP 	digit: autoDraw = False
+389.3175 	EXP 	digit: autoDraw = False
+389.3175 	EXP 	text_3: autoDraw = True
+389.4254 	EXP 	text_3: autoDraw = False
+389.4254 	EXP 	text_4: autoDraw = True
+389.4254 	EXP 	result_box: autoDraw = True
+389.4254 	EXP 	text_5: autoDraw = True
+389.7927 	DATA 	Keypress: 2
+389.8337 	DATA 	Keypress: 4
+390.4587 	DATA 	Keypress: 8
+390.6740 	DATA 	Keypress: 9
+391.1461 	DATA 	Keypress: 2
+391.2504 	DATA 	Keypress: 3
+391.3759 	DATA 	Keypress: 2
+391.7441 	DATA 	Keypress: space
+391.7493 	EXP 	New trial (rep=8, index=0): None
+391.7553 	EXP 	text_4: autoDraw = False
+391.7553 	EXP 	result_box: autoDraw = False
+391.7553 	EXP 	text_5: autoDraw = False
+391.7553 	EXP 	text_2: autoDraw = True
+392.7497 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+392.7500 	EXP 	New trial (rep=0, index=0): None
+392.7554 	EXP 	text_2: autoDraw = False
+392.7554 	EXP 	text_2: autoDraw = False
+392.7554 	EXP 	digit: height = 0.5
+392.7554 	EXP 	digit: height = 0.5
+392.7554 	EXP 	digit: height = 0.5
+392.7554 	EXP 	digit: text = '6'
+392.7554 	EXP 	digit: autoDraw = True
+393.7554 	EXP 	digit: autoDraw = False
+393.7554 	EXP 	digit: autoDraw = False
+393.7554 	EXP 	text_3: autoDraw = True
+393.8530 	EXP 	New trial (rep=1, index=0): None
+393.8596 	EXP 	text_3: autoDraw = False
+393.8596 	EXP 	digit: height = 0.5
+393.8596 	EXP 	digit: height = 0.5
+393.8596 	EXP 	digit: height = 0.5
+393.8596 	EXP 	digit: text = '2'
+393.8596 	EXP 	digit: autoDraw = True
+394.8591 	EXP 	digit: autoDraw = False
+394.8591 	EXP 	text_3: autoDraw = True
+394.9497 	EXP 	New trial (rep=2, index=0): None
+394.9560 	EXP 	text_3: autoDraw = False
+394.9560 	EXP 	digit: height = 0.5
+394.9560 	EXP 	digit: height = 0.5
+394.9560 	EXP 	digit: height = 0.5
+394.9560 	EXP 	digit: text = '3'
+394.9560 	EXP 	digit: autoDraw = True
+395.9566 	EXP 	digit: autoDraw = False
+395.9566 	EXP 	text_3: autoDraw = True
+396.0543 	EXP 	New trial (rep=3, index=0): None
+396.0608 	EXP 	text_3: autoDraw = False
+396.0608 	EXP 	digit: height = 0.5
+396.0608 	EXP 	digit: height = 0.5
+396.0608 	EXP 	digit: height = 0.5
+396.0608 	EXP 	digit: text = '7'
+396.0608 	EXP 	digit: autoDraw = True
+397.0604 	EXP 	digit: autoDraw = False
+397.0604 	EXP 	text_3: autoDraw = True
+397.1519 	EXP 	New trial (rep=4, index=0): None
+397.1586 	EXP 	text_3: autoDraw = False
+397.1586 	EXP 	digit: height = 0.5
+397.1586 	EXP 	digit: height = 0.5
+397.1586 	EXP 	digit: height = 0.5
+397.1586 	EXP 	digit: text = '9'
+397.1586 	EXP 	digit: autoDraw = True
+398.1577 	EXP 	digit: autoDraw = False
+398.1577 	EXP 	text_3: autoDraw = True
+398.2554 	EXP 	New trial (rep=5, index=0): None
+398.2619 	EXP 	text_3: autoDraw = False
+398.2619 	EXP 	digit: height = 0.5
+398.2619 	EXP 	digit: height = 0.5
+398.2619 	EXP 	digit: height = 0.5
+398.2619 	EXP 	digit: text = '8'
+398.2619 	EXP 	digit: autoDraw = True
+399.2619 	EXP 	digit: autoDraw = False
+399.2619 	EXP 	text_3: autoDraw = True
+399.3531 	EXP 	New trial (rep=6, index=0): None
+399.3589 	EXP 	text_3: autoDraw = False
+399.3589 	EXP 	digit: height = 0.5
+399.3589 	EXP 	digit: height = 0.5
+399.3589 	EXP 	digit: height = 0.5
+399.3589 	EXP 	digit: text = '0'
+399.3589 	EXP 	digit: autoDraw = True
+400.3591 	EXP 	digit: autoDraw = False
+400.3591 	EXP 	text_3: autoDraw = True
+400.4498 	EXP 	New trial (rep=7, index=0): None
+400.4565 	EXP 	text_3: autoDraw = False
+400.4565 	EXP 	digit: height = 0.5
+400.4565 	EXP 	digit: height = 0.5
+400.4565 	EXP 	digit: height = 0.5
+400.4565 	EXP 	digit: text = '5'
+400.4565 	EXP 	digit: autoDraw = True
+401.4568 	EXP 	digit: autoDraw = False
+401.4568 	EXP 	text_3: autoDraw = True
+401.5651 	EXP 	text_3: autoDraw = False
+401.5651 	EXP 	text_4: autoDraw = True
+401.5651 	EXP 	result_box: autoDraw = True
+401.5651 	EXP 	text_5: autoDraw = True
+401.8548 	DATA 	Keypress: 6
+402.3336 	DATA 	Keypress: 2
+402.4103 	DATA 	Keypress: 3
+402.9390 	DATA 	Keypress: 9
+403.1742 	DATA 	Keypress: 9
+403.2706 	DATA 	Keypress: 8
+403.6592 	DATA 	Keypress: 2
+403.8400 	DATA 	Keypress: 3
+404.1445 	EXP 	New trial (rep=9, index=0): None
+404.1454 	DATA 	Keypress: space
+404.1501 	EXP 	text_4: autoDraw = False
+404.1501 	EXP 	result_box: autoDraw = False
+404.1501 	EXP 	text_5: autoDraw = False
+404.1501 	EXP 	text_2: autoDraw = True
+405.1458 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+405.1462 	EXP 	New trial (rep=0, index=0): None
+405.1508 	EXP 	text_2: autoDraw = False
+405.1508 	EXP 	text_2: autoDraw = False
+405.1508 	EXP 	digit: text = '5'
+405.1508 	EXP 	digit: autoDraw = True
+406.1510 	EXP 	digit: autoDraw = False
+406.1510 	EXP 	digit: autoDraw = False
+406.1510 	EXP 	text_3: autoDraw = True
+406.2484 	EXP 	New trial (rep=1, index=0): None
+406.2573 	EXP 	text_3: autoDraw = False
+406.2573 	EXP 	digit: height = 0.5
+406.2573 	EXP 	digit: height = 0.5
+406.2573 	EXP 	digit: height = 0.5
+406.2573 	EXP 	digit: text = '4'
+406.2573 	EXP 	digit: autoDraw = True
+407.2550 	EXP 	digit: autoDraw = False
+407.2550 	EXP 	text_3: autoDraw = True
+407.3448 	EXP 	New trial (rep=2, index=0): None
+407.3515 	EXP 	text_3: autoDraw = False
+407.3515 	EXP 	digit: height = 0.5
+407.3515 	EXP 	digit: height = 0.5
+407.3515 	EXP 	digit: height = 0.5
+407.3515 	EXP 	digit: text = '6'
+407.3515 	EXP 	digit: autoDraw = True
+408.3523 	EXP 	digit: autoDraw = False
+408.3523 	EXP 	text_3: autoDraw = True
+408.4494 	EXP 	New trial (rep=3, index=0): None
+408.4561 	EXP 	text_3: autoDraw = False
+408.4561 	EXP 	digit: height = 0.5
+408.4561 	EXP 	digit: height = 0.5
+408.4561 	EXP 	digit: height = 0.5
+408.4561 	EXP 	digit: text = '9'
+408.4561 	EXP 	digit: autoDraw = True
+409.4563 	EXP 	digit: autoDraw = False
+409.4563 	EXP 	text_3: autoDraw = True
+409.5473 	EXP 	New trial (rep=4, index=0): None
+409.5534 	EXP 	text_3: autoDraw = False
+409.5534 	EXP 	digit: height = 0.5
+409.5534 	EXP 	digit: height = 0.5
+409.5534 	EXP 	digit: height = 0.5
+409.5534 	EXP 	digit: text = '7'
+409.5534 	EXP 	digit: autoDraw = True
+410.5534 	EXP 	digit: autoDraw = False
+410.5534 	EXP 	text_3: autoDraw = True
+410.6516 	EXP 	New trial (rep=5, index=0): None
+410.6576 	EXP 	text_3: autoDraw = False
+410.6576 	EXP 	digit: height = 0.5
+410.6576 	EXP 	digit: height = 0.5
+410.6576 	EXP 	digit: height = 0.5
+410.6576 	EXP 	digit: text = '0'
+410.6576 	EXP 	digit: autoDraw = True
+411.6570 	EXP 	digit: autoDraw = False
+411.6570 	EXP 	text_3: autoDraw = True
+411.7484 	EXP 	New trial (rep=6, index=0): None
+411.7562 	EXP 	text_3: autoDraw = False
+411.7562 	EXP 	digit: height = 0.5
+411.7562 	EXP 	digit: height = 0.5
+411.7562 	EXP 	digit: height = 0.5
+411.7562 	EXP 	digit: text = '8'
+411.7562 	EXP 	digit: autoDraw = True
+412.7548 	EXP 	digit: autoDraw = False
+412.7548 	EXP 	text_3: autoDraw = True
+412.8457 	EXP 	New trial (rep=7, index=0): None
+412.8519 	EXP 	text_3: autoDraw = False
+412.8519 	EXP 	digit: height = 0.5
+412.8519 	EXP 	digit: height = 0.5
+412.8519 	EXP 	digit: height = 0.5
+412.8519 	EXP 	digit: text = '2'
+412.8519 	EXP 	digit: autoDraw = True
+413.8521 	EXP 	digit: autoDraw = False
+413.8521 	EXP 	text_3: autoDraw = True
+413.9574 	EXP 	text_3: autoDraw = False
+413.9574 	EXP 	text_4: autoDraw = True
+413.9574 	EXP 	result_box: autoDraw = True
+413.9574 	EXP 	text_5: autoDraw = True
+414.3001 	DATA 	Keypress: 5
+414.6391 	DATA 	Keypress: 4
+414.8615 	DATA 	Keypress: 6
+415.3815 	DATA 	Keypress: 9
+416.3541 	DATA 	Keypress: 7
+416.7494 	DATA 	Keypress: 0
+417.0699 	DATA 	Keypress: 4
+417.2713 	DATA 	Keypress: 3
+417.5613 	EXP 	New trial (rep=10, index=0): None
+417.5622 	DATA 	Keypress: space
+417.5673 	EXP 	text_4: autoDraw = False
+417.5673 	EXP 	result_box: autoDraw = False
+417.5673 	EXP 	text_5: autoDraw = False
+417.5673 	EXP 	text_2: autoDraw = True
+418.5614 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+418.5617 	EXP 	New trial (rep=0, index=0): None
+418.5674 	EXP 	text_2: autoDraw = False
+418.5674 	EXP 	text_2: autoDraw = False
+418.5674 	EXP 	digit: height = 0.5
+418.5674 	EXP 	digit: height = 0.5
+418.5674 	EXP 	digit: height = 0.5
+418.5674 	EXP 	digit: text = '5'
+418.5674 	EXP 	digit: autoDraw = True
+419.5671 	EXP 	digit: autoDraw = False
+419.5671 	EXP 	digit: autoDraw = False
+419.5671 	EXP 	text_3: autoDraw = True
+419.6647 	EXP 	New trial (rep=1, index=0): None
+419.6709 	EXP 	text_3: autoDraw = False
+419.6709 	EXP 	digit: height = 0.5
+419.6709 	EXP 	digit: height = 0.5
+419.6709 	EXP 	digit: height = 0.5
+419.6709 	EXP 	digit: text = '6'
+419.6709 	EXP 	digit: autoDraw = True
+420.6714 	EXP 	digit: autoDraw = False
+420.6714 	EXP 	text_3: autoDraw = True
+420.7624 	EXP 	New trial (rep=2, index=0): None
+420.7680 	EXP 	text_3: autoDraw = False
+420.7680 	EXP 	digit: height = 0.5
+420.7680 	EXP 	digit: height = 0.5
+420.7680 	EXP 	digit: height = 0.5
+420.7680 	EXP 	digit: text = '7'
+420.7680 	EXP 	digit: autoDraw = True
+421.7685 	EXP 	digit: autoDraw = False
+421.7685 	EXP 	text_3: autoDraw = True
+421.8661 	EXP 	New trial (rep=3, index=0): None
+421.8726 	EXP 	text_3: autoDraw = False
+421.8726 	EXP 	digit: height = 0.5
+421.8726 	EXP 	digit: height = 0.5
+421.8726 	EXP 	digit: height = 0.5
+421.8726 	EXP 	digit: text = '1'
+421.8726 	EXP 	digit: autoDraw = True
+422.8725 	EXP 	digit: autoDraw = False
+422.8725 	EXP 	text_3: autoDraw = True
+422.9630 	EXP 	New trial (rep=4, index=0): None
+422.9698 	EXP 	text_3: autoDraw = False
+422.9698 	EXP 	digit: height = 0.5
+422.9698 	EXP 	digit: height = 0.5
+422.9698 	EXP 	digit: height = 0.5
+422.9698 	EXP 	digit: text = '0'
+422.9698 	EXP 	digit: autoDraw = True
+423.9700 	EXP 	digit: autoDraw = False
+423.9700 	EXP 	text_3: autoDraw = True
+424.0674 	EXP 	New trial (rep=5, index=0): None
+424.0734 	EXP 	text_3: autoDraw = False
+424.0734 	EXP 	digit: height = 0.5
+424.0734 	EXP 	digit: height = 0.5
+424.0734 	EXP 	digit: height = 0.5
+424.0734 	EXP 	digit: text = '9'
+424.0734 	EXP 	digit: autoDraw = True
+425.0735 	EXP 	digit: autoDraw = False
+425.0735 	EXP 	text_3: autoDraw = True
+425.1646 	EXP 	New trial (rep=6, index=0): None
+425.1712 	EXP 	text_3: autoDraw = False
+425.1712 	EXP 	digit: height = 0.5
+425.1712 	EXP 	digit: height = 0.5
+425.1712 	EXP 	digit: height = 0.5
+425.1712 	EXP 	digit: text = '2'
+425.1712 	EXP 	digit: autoDraw = True
+426.1714 	EXP 	digit: autoDraw = False
+426.1714 	EXP 	text_3: autoDraw = True
+426.2616 	EXP 	New trial (rep=7, index=0): None
+426.2687 	EXP 	text_3: autoDraw = False
+426.2687 	EXP 	digit: height = 0.5
+426.2687 	EXP 	digit: height = 0.5
+426.2687 	EXP 	digit: height = 0.5
+426.2687 	EXP 	digit: text = '3'
+426.2687 	EXP 	digit: autoDraw = True
+427.2685 	EXP 	digit: autoDraw = False
+427.2685 	EXP 	text_3: autoDraw = True
+427.3743 	EXP 	text_3: autoDraw = False
+427.3743 	EXP 	text_4: autoDraw = True
+427.3743 	EXP 	result_box: autoDraw = True
+427.3743 	EXP 	text_5: autoDraw = True
+431.0019 	DATA 	Keypress: 5
+431.2010 	DATA 	Keypress: 4
+431.6106 	DATA 	Keypress: 2
+431.8124 	DATA 	Keypress: 3
+431.9850 	DATA 	Keypress: 2
+434.8125 	DATA 	Keypress: space
+434.8178 	EXP 	New trial (rep=11, index=0): None
+434.8236 	EXP 	text_4: autoDraw = False
+434.8236 	EXP 	result_box: autoDraw = False
+434.8236 	EXP 	text_5: autoDraw = False
+434.8236 	EXP 	text_2: autoDraw = True
+435.8182 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+435.8184 	EXP 	New trial (rep=0, index=0): None
+435.8241 	EXP 	text_2: autoDraw = False
+435.8241 	EXP 	text_2: autoDraw = False
+435.8241 	EXP 	digit: height = 0.5
+435.8241 	EXP 	digit: height = 0.5
+435.8241 	EXP 	digit: height = 0.5
+435.8241 	EXP 	digit: text = '2'
+435.8241 	EXP 	digit: autoDraw = True
+436.8234 	EXP 	digit: autoDraw = False
+436.8234 	EXP 	digit: autoDraw = False
+436.8234 	EXP 	text_3: autoDraw = True
+436.9210 	EXP 	New trial (rep=1, index=0): None
+436.9277 	EXP 	text_3: autoDraw = False
+436.9277 	EXP 	digit: height = 0.5
+436.9277 	EXP 	digit: height = 0.5
+436.9277 	EXP 	digit: height = 0.5
+436.9277 	EXP 	digit: text = '4'
+436.9277 	EXP 	digit: autoDraw = True
+437.9279 	EXP 	digit: autoDraw = False
+437.9279 	EXP 	text_3: autoDraw = True
+438.0184 	EXP 	New trial (rep=2, index=0): None
+438.0251 	EXP 	text_3: autoDraw = False
+438.0251 	EXP 	digit: height = 0.5
+438.0251 	EXP 	digit: height = 0.5
+438.0251 	EXP 	digit: height = 0.5
+438.0251 	EXP 	digit: text = '6'
+438.0251 	EXP 	digit: autoDraw = True
+439.0250 	EXP 	digit: autoDraw = False
+439.0250 	EXP 	text_3: autoDraw = True
+439.1227 	EXP 	New trial (rep=3, index=0): None
+439.1293 	EXP 	text_3: autoDraw = False
+439.1293 	EXP 	digit: height = 0.5
+439.1293 	EXP 	digit: height = 0.5
+439.1293 	EXP 	digit: height = 0.5
+439.1293 	EXP 	digit: text = '7'
+439.1293 	EXP 	digit: autoDraw = True
+440.1295 	EXP 	digit: autoDraw = False
+440.1295 	EXP 	text_3: autoDraw = True
+440.2196 	EXP 	New trial (rep=4, index=0): None
+440.2264 	EXP 	text_3: autoDraw = False
+440.2264 	EXP 	digit: height = 0.5
+440.2264 	EXP 	digit: height = 0.5
+440.2264 	EXP 	digit: height = 0.5
+440.2264 	EXP 	digit: text = '1'
+440.2264 	EXP 	digit: autoDraw = True
+441.2263 	EXP 	digit: autoDraw = False
+441.2263 	EXP 	text_3: autoDraw = True
+441.3242 	EXP 	New trial (rep=5, index=0): None
+441.3306 	EXP 	text_3: autoDraw = False
+441.3306 	EXP 	digit: height = 0.5
+441.3306 	EXP 	digit: height = 0.5
+441.3306 	EXP 	digit: height = 0.5
+441.3306 	EXP 	digit: text = '3'
+441.3306 	EXP 	digit: autoDraw = True
+442.3306 	EXP 	digit: autoDraw = False
+442.3306 	EXP 	text_3: autoDraw = True
+442.4212 	EXP 	New trial (rep=6, index=0): None
+442.4277 	EXP 	text_3: autoDraw = False
+442.4277 	EXP 	digit: height = 0.5
+442.4277 	EXP 	digit: height = 0.5
+442.4277 	EXP 	digit: height = 0.5
+442.4277 	EXP 	digit: text = '8'
+442.4277 	EXP 	digit: autoDraw = True
+443.4273 	EXP 	digit: autoDraw = False
+443.4273 	EXP 	text_3: autoDraw = True
+443.5187 	EXP 	New trial (rep=7, index=0): None
+443.5250 	EXP 	text_3: autoDraw = False
+443.5250 	EXP 	digit: height = 0.5
+443.5250 	EXP 	digit: height = 0.5
+443.5250 	EXP 	digit: height = 0.5
+443.5250 	EXP 	digit: text = '9'
+443.5250 	EXP 	digit: autoDraw = True
+444.5253 	EXP 	digit: autoDraw = False
+444.5253 	EXP 	text_3: autoDraw = True
+444.6306 	EXP 	text_3: autoDraw = False
+444.6306 	EXP 	text_4: autoDraw = True
+444.6306 	EXP 	result_box: autoDraw = True
+444.6306 	EXP 	text_5: autoDraw = True
+447.2511 	DATA 	Keypress: 2
+447.3827 	DATA 	Keypress: 4
+448.1873 	DATA 	Keypress: 6
+448.5763 	DATA 	Keypress: 7
+448.8124 	DATA 	Keypress: 8
+449.9018 	EXP 	New trial (rep=12, index=0): None
+449.9030 	DATA 	Keypress: space
+449.9067 	EXP 	text_4: autoDraw = False
+449.9067 	EXP 	result_box: autoDraw = False
+449.9067 	EXP 	text_5: autoDraw = False
+449.9067 	EXP 	text_2: autoDraw = True
+450.9007 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+450.9009 	EXP 	New trial (rep=0, index=0): None
+450.9068 	EXP 	text_2: autoDraw = False
+450.9068 	EXP 	text_2: autoDraw = False
+450.9068 	EXP 	digit: height = 0.5
+450.9068 	EXP 	digit: height = 0.5
+450.9068 	EXP 	digit: height = 0.5
+450.9068 	EXP 	digit: text = '7'
+450.9068 	EXP 	digit: autoDraw = True
+451.9067 	EXP 	digit: autoDraw = False
+451.9067 	EXP 	digit: autoDraw = False
+451.9067 	EXP 	text_3: autoDraw = True
+452.0045 	EXP 	New trial (rep=1, index=0): None
+452.0109 	EXP 	text_3: autoDraw = False
+452.0109 	EXP 	digit: height = 0.5
+452.0109 	EXP 	digit: height = 0.5
+452.0109 	EXP 	digit: height = 0.5
+452.0109 	EXP 	digit: text = '9'
+452.0109 	EXP 	digit: autoDraw = True
+453.0107 	EXP 	digit: autoDraw = False
+453.0107 	EXP 	text_3: autoDraw = True
+453.1085 	EXP 	New trial (rep=2, index=0): None
+453.1151 	EXP 	text_3: autoDraw = False
+453.1151 	EXP 	digit: height = 0.5
+453.1151 	EXP 	digit: height = 0.5
+453.1151 	EXP 	digit: height = 0.5
+453.1151 	EXP 	digit: text = '3'
+453.1151 	EXP 	digit: autoDraw = True
+454.1147 	EXP 	digit: autoDraw = False
+454.1147 	EXP 	text_3: autoDraw = True
+454.2054 	EXP 	New trial (rep=3, index=0): None
+454.2118 	EXP 	text_3: autoDraw = False
+454.2118 	EXP 	digit: height = 0.5
+454.2118 	EXP 	digit: height = 0.5
+454.2118 	EXP 	digit: height = 0.5
+454.2118 	EXP 	digit: text = '4'
+454.2118 	EXP 	digit: autoDraw = True
+455.2120 	EXP 	digit: autoDraw = False
+455.2120 	EXP 	text_3: autoDraw = True
+455.3031 	EXP 	New trial (rep=4, index=0): None
+455.3110 	EXP 	text_3: autoDraw = False
+455.3110 	EXP 	digit: height = 0.5
+455.3110 	EXP 	digit: height = 0.5
+455.3110 	EXP 	digit: height = 0.5
+455.3110 	EXP 	digit: text = '5'
+455.3110 	EXP 	digit: autoDraw = True
+456.3095 	EXP 	digit: autoDraw = False
+456.3095 	EXP 	text_3: autoDraw = True
+456.4075 	EXP 	New trial (rep=5, index=0): None
+456.4161 	EXP 	text_3: autoDraw = False
+456.4161 	EXP 	digit: height = 0.5
+456.4161 	EXP 	digit: height = 0.5
+456.4161 	EXP 	digit: height = 0.5
+456.4161 	EXP 	digit: text = '6'
+456.4161 	EXP 	digit: autoDraw = True
+457.4135 	EXP 	digit: autoDraw = False
+457.4135 	EXP 	text_3: autoDraw = True
+457.5038 	EXP 	New trial (rep=6, index=0): None
+457.5103 	EXP 	text_3: autoDraw = False
+457.5103 	EXP 	digit: height = 0.5
+457.5103 	EXP 	digit: height = 0.5
+457.5103 	EXP 	digit: height = 0.5
+457.5103 	EXP 	digit: text = '8'
+457.5103 	EXP 	digit: autoDraw = True
+458.5104 	EXP 	digit: autoDraw = False
+458.5104 	EXP 	text_3: autoDraw = True
+458.6088 	EXP 	New trial (rep=7, index=0): None
+458.6160 	EXP 	text_3: autoDraw = False
+458.6160 	EXP 	digit: height = 0.5
+458.6160 	EXP 	digit: height = 0.5
+458.6160 	EXP 	digit: height = 0.5
+458.6160 	EXP 	digit: text = '0'
+458.6160 	EXP 	digit: autoDraw = True
+459.6150 	EXP 	digit: autoDraw = False
+459.6150 	EXP 	text_3: autoDraw = True
+459.7147 	EXP 	text_3: autoDraw = False
+459.7147 	EXP 	text_4: autoDraw = True
+459.7147 	EXP 	result_box: autoDraw = True
+459.7147 	EXP 	text_5: autoDraw = True
+474.3336 	DATA 	Keypress: 2
+474.4916 	DATA 	Keypress: 4
+474.6188 	DATA 	Keypress: 5
+474.6862 	DATA 	Keypress: 6
+474.8802 	DATA 	Keypress: 4
+475.0195 	DATA 	Keypress: 6
+475.3677 	DATA 	Keypress: space
+475.3718 	EXP 	New trial (rep=13, index=0): None
+475.3778 	EXP 	text_4: autoDraw = False
+475.3778 	EXP 	result_box: autoDraw = False
+475.3778 	EXP 	text_5: autoDraw = False
+475.3778 	EXP 	text_2: autoDraw = True
+476.3733 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+476.3737 	EXP 	New trial (rep=0, index=0): None
+476.3816 	EXP 	text_2: autoDraw = False
+476.3816 	EXP 	text_2: autoDraw = False
+476.3816 	EXP 	digit: height = 0.5
+476.3816 	EXP 	digit: height = 0.5
+476.3816 	EXP 	digit: height = 0.5
+476.3816 	EXP 	digit: text = '3'
+476.3816 	EXP 	digit: autoDraw = True
+477.3786 	EXP 	digit: autoDraw = False
+477.3786 	EXP 	text_3: autoDraw = True
+477.4760 	EXP 	New trial (rep=1, index=0): None
+477.4825 	EXP 	text_3: autoDraw = False
+477.4825 	EXP 	digit: height = 0.5
+477.4825 	EXP 	digit: height = 0.5
+477.4825 	EXP 	digit: height = 0.5
+477.4825 	EXP 	digit: text = '1'
+477.4825 	EXP 	digit: autoDraw = True
+478.4825 	EXP 	digit: autoDraw = False
+478.4825 	EXP 	text_3: autoDraw = True
+478.5729 	EXP 	New trial (rep=2, index=0): None
+478.5791 	EXP 	text_3: autoDraw = False
+478.5791 	EXP 	digit: height = 0.5
+478.5791 	EXP 	digit: height = 0.5
+478.5791 	EXP 	digit: height = 0.5
+478.5791 	EXP 	digit: text = '8'
+478.5791 	EXP 	digit: autoDraw = True
+479.5796 	EXP 	digit: autoDraw = False
+479.5796 	EXP 	text_3: autoDraw = True
+479.6779 	EXP 	New trial (rep=3, index=0): None
+479.6840 	EXP 	text_3: autoDraw = False
+479.6840 	EXP 	digit: height = 0.5
+479.6840 	EXP 	digit: height = 0.5
+479.6840 	EXP 	digit: height = 0.5
+479.6840 	EXP 	digit: text = '5'
+479.6840 	EXP 	digit: autoDraw = True
+480.6839 	EXP 	digit: autoDraw = False
+480.6839 	EXP 	text_3: autoDraw = True
+480.7746 	EXP 	New trial (rep=4, index=0): None
+480.7812 	EXP 	text_3: autoDraw = False
+480.7812 	EXP 	digit: height = 0.5
+480.7812 	EXP 	digit: height = 0.5
+480.7812 	EXP 	digit: height = 0.5
+480.7812 	EXP 	digit: text = '9'
+480.7812 	EXP 	digit: autoDraw = True
+481.7810 	EXP 	digit: autoDraw = False
+481.7810 	EXP 	text_3: autoDraw = True
+481.8790 	EXP 	New trial (rep=5, index=0): None
+481.8859 	EXP 	text_3: autoDraw = False
+481.8859 	EXP 	digit: height = 0.5
+481.8859 	EXP 	digit: height = 0.5
+481.8859 	EXP 	digit: height = 0.5
+481.8859 	EXP 	digit: text = '2'
+481.8859 	EXP 	digit: autoDraw = True
+482.8852 	EXP 	digit: autoDraw = False
+482.8852 	EXP 	text_3: autoDraw = True
+482.9761 	EXP 	New trial (rep=6, index=0): None
+482.9824 	EXP 	text_3: autoDraw = False
+482.9824 	EXP 	digit: height = 0.5
+482.9824 	EXP 	digit: height = 0.5
+482.9824 	EXP 	digit: height = 0.5
+482.9824 	EXP 	digit: text = '4'
+482.9824 	EXP 	digit: autoDraw = True
+483.9822 	EXP 	digit: autoDraw = False
+483.9822 	EXP 	text_3: autoDraw = True
+484.0724 	EXP 	New trial (rep=7, index=0): None
+484.0790 	EXP 	text_3: autoDraw = False
+484.0790 	EXP 	digit: height = 0.5
+484.0790 	EXP 	digit: height = 0.5
+484.0790 	EXP 	digit: height = 0.5
+484.0790 	EXP 	digit: text = '6'
+484.0790 	EXP 	digit: autoDraw = True
+484.7495 	DATA 	Keypress: 3
+485.0795 	EXP 	digit: autoDraw = False
+485.0795 	EXP 	text_3: autoDraw = True
+485.1842 	EXP 	text_3: autoDraw = False
+485.1842 	EXP 	text_4: autoDraw = True
+485.1842 	EXP 	result_box: autoDraw = True
+485.1842 	EXP 	text_5: autoDraw = True
+485.5899 	DATA 	Keypress: 3
+485.7686 	DATA 	Keypress: 1
+486.6029 	DATA 	Keypress: 5
+487.1867 	DATA 	Keypress: 8
+487.5193 	DATA 	Keypress: 6
+487.7413 	DATA 	Keypress: 6
+487.9164 	DATA 	Keypress: space
+487.9207 	EXP 	New trial (rep=14, index=0): None
+487.9266 	EXP 	text_4: autoDraw = False
+487.9266 	EXP 	result_box: autoDraw = False
+487.9266 	EXP 	text_5: autoDraw = False
+487.9266 	EXP 	text_2: autoDraw = True
+488.9210 	EXP 	Created sequence: sequential, trialTypes=1, nReps=8, seed=None
+488.9212 	EXP 	New trial (rep=0, index=0): None
+488.9268 	EXP 	text_2: autoDraw = False
+488.9268 	EXP 	text_2: autoDraw = False
+488.9268 	EXP 	digit: height = 0.5
+488.9268 	EXP 	digit: height = 0.5
+488.9268 	EXP 	digit: height = 0.5
+488.9268 	EXP 	digit: text = '5'
+488.9268 	EXP 	digit: autoDraw = True
+489.9265 	EXP 	digit: autoDraw = False
+489.9265 	EXP 	digit: autoDraw = False
+489.9265 	EXP 	text_3: autoDraw = True
+490.0245 	EXP 	New trial (rep=1, index=0): None
+490.0310 	EXP 	text_3: autoDraw = False
+490.0310 	EXP 	digit: height = 0.5
+490.0310 	EXP 	digit: height = 0.5
+490.0310 	EXP 	digit: height = 0.5
+490.0310 	EXP 	digit: text = '2'
+490.0310 	EXP 	digit: autoDraw = True
+491.0309 	EXP 	digit: autoDraw = False
+491.0309 	EXP 	text_3: autoDraw = True
+491.1223 	EXP 	New trial (rep=2, index=0): None
+491.1292 	EXP 	text_3: autoDraw = False
+491.1292 	EXP 	digit: height = 0.5
+491.1292 	EXP 	digit: height = 0.5
+491.1292 	EXP 	digit: height = 0.5
+491.1292 	EXP 	digit: text = '0'
+491.1292 	EXP 	digit: autoDraw = True
+492.1274 	EXP 	digit: autoDraw = False
+492.1274 	EXP 	text_3: autoDraw = True
+492.2252 	EXP 	New trial (rep=3, index=0): None
+492.2321 	EXP 	text_3: autoDraw = False
+492.2321 	EXP 	digit: height = 0.5
+492.2321 	EXP 	digit: height = 0.5
+492.2321 	EXP 	digit: height = 0.5
+492.2321 	EXP 	digit: text = '7'
+492.2321 	EXP 	digit: autoDraw = True
+493.2321 	EXP 	digit: autoDraw = False
+493.2321 	EXP 	text_3: autoDraw = True
+493.3229 	EXP 	New trial (rep=4, index=0): None
+493.3294 	EXP 	text_3: autoDraw = False
+493.3294 	EXP 	digit: height = 0.5
+493.3294 	EXP 	digit: height = 0.5
+493.3294 	EXP 	digit: height = 0.5
+493.3294 	EXP 	digit: text = '4'
+493.3294 	EXP 	digit: autoDraw = True
+494.3294 	EXP 	digit: autoDraw = False
+494.3294 	EXP 	text_3: autoDraw = True
+494.4271 	EXP 	New trial (rep=5, index=0): None
+494.4337 	EXP 	text_3: autoDraw = False
+494.4337 	EXP 	digit: height = 0.5
+494.4337 	EXP 	digit: height = 0.5
+494.4337 	EXP 	digit: height = 0.5
+494.4337 	EXP 	digit: text = '1'
+494.4337 	EXP 	digit: autoDraw = True
+495.4330 	EXP 	digit: autoDraw = False
+495.4330 	EXP 	text_3: autoDraw = True
+495.5241 	EXP 	New trial (rep=6, index=0): None
+495.5301 	EXP 	text_3: autoDraw = False
+495.5301 	EXP 	digit: height = 0.5
+495.5301 	EXP 	digit: height = 0.5
+495.5301 	EXP 	digit: height = 0.5
+495.5301 	EXP 	digit: text = '3'
+495.5301 	EXP 	digit: autoDraw = True
+496.5306 	EXP 	digit: autoDraw = False
+496.5306 	EXP 	text_3: autoDraw = True
+496.6216 	EXP 	New trial (rep=7, index=0): None
+496.6279 	EXP 	text_3: autoDraw = False
+496.6279 	EXP 	digit: height = 0.5
+496.6279 	EXP 	digit: height = 0.5
+496.6279 	EXP 	digit: height = 0.5
+496.6279 	EXP 	digit: text = '8'
+496.6279 	EXP 	digit: autoDraw = True
+497.6279 	EXP 	digit: autoDraw = False
+497.6279 	EXP 	text_3: autoDraw = True
+497.7322 	EXP 	text_3: autoDraw = False
+497.7322 	EXP 	text_4: autoDraw = True
+497.7322 	EXP 	result_box: autoDraw = True
+497.7322 	EXP 	text_5: autoDraw = True
+498.7760 	DATA 	Keypress: space
+498.7873 	EXP 	text_4: autoDraw = False
+498.7873 	EXP 	result_box: autoDraw = False
+498.7873 	EXP 	text_5: autoDraw = False
+498.7873 	EXP 	text_6: autoDraw = True
+500.0604 	DATA 	Keypress: space
+500.0647 	EXP 	text_6: autoDraw = False
+500.0647 	EXP 	text_7: autoDraw = True
+502.0651 	EXP 	text_7: autoDraw = False
+502.0651 	EXP 	text_7: autoDraw = False
+502.0653 	EXP 	digit_span: status = STOPPED
+502.1659 	EXP 	window1: mouseVisible = True
