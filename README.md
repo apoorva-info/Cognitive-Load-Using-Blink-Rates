@@ -148,7 +148,7 @@ df_cleaned = clean_csv_file(file_path)
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/assessing-cognitive-load.git
+   git clone https://github.com/apoorva-info/assessing-cognitive-load.git
    cd assessing-cognitive-load
    jupyter notebook Assessing_Cognitive_Load.ipynb
    ```
